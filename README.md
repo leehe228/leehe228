@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=240&text=Hoeun%20Lee's%20Github&fontSize=50)
 
-### 건국대학교(서울) 컴퓨터공학부(학사) 재학중
-### 건국대학교(서울) 인공지능 대학원 - DMS연구실 심층강화학습연구팀 (학부연구생)
+- 건국대학교(서울) 컴퓨터공학부(학사) 재학중
+- 건국대학교(서울) 인공지능 대학원 - DMS연구실 심층강화학습연구팀 (학부연구생)
 
-<br><br>
+<br>
 
 # Interested in
-### *Deep Reinforcement Learing*
-### *AutoRL, AutoML*
+- *Deep Reinforcement Learing*
+- *AutoRL, AutoML*
 
-<br><br>
+<br>
 
 # Study
 - DRL
@@ -38,8 +38,6 @@
 # My Github 
 
 ![Hoeun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehe228&hide=contribs,prs&count_private=true&show_icons=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leehe228&repo=Konkuk_Univ_CSE)](https://github.com/leehe228/Konkuk_Univ_CSE)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehe228&layout=compact)](https://github.com/leehe228)
 
