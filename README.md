@@ -43,6 +43,12 @@
 
 <br>
 
+## CSE Study
+### 건국대학교 컴퓨터공학부 학사
+[Repo](https://github.com/leehe228/Konkuk_Univ_CSE)
+
+<br>
+
 ## Blog
 ### DeepDeepit Tistory Blog
 [deepdeepit.tistory.com](https://deepdeepit.tistory.com/)
