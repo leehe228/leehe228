@@ -18,7 +18,7 @@
 
 ## Rewards
 ### 2018 캔위성경연대회 고등부 2위 
-(SaTReC, 과학기술정보통신부, 한국항공우주연구원 등 주최) <br>
+(KAIST, SaTReC, 과학기술정보통신부, 한국항공우주연구원 등 주최) <br>
 [Post](https://deepdeepit.tistory.com/45) , [Contest Info](http://cansat.kaist.ac.kr/)
 
 ### 2018 전국고교동아리SW경진대회 1위 
