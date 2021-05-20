@@ -17,13 +17,20 @@
 <br>
 
 ## Rewards
-### 2018 캔위성경연대회 고등부 2위 
+### 모델 위성과 도플러 효과를 이용한 머신러닝 이미지 프로세싱 기반 비행체 추적 성능에 관한 연구
+2018 캔위성경연대회 고등부 2위 <br>
 (KAIST, SaTReC, 과학기술정보통신부, 한국항공우주연구원 등 주최) <br>
 [Post](https://deepdeepit.tistory.com/45) , [Contest Info](http://cansat.kaist.ac.kr/)
 
-### 2018 전국고교동아리SW경진대회 1위 
+### 가상현실과 머신러닝을 이용한 발표력 향상 소프트웨어
+2018 전국고교동아리SW경진대회 1위 <br>
 (KAIST, SW중심대학사업단 주최) <br>
 [Post](https://deepdeepit.tistory.com/50) , [Contest Info](https://www.highschool-swcontest.com/)
+
+### 가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어
+2019 국민은행소프트웨어경진대회 KBSC 고등부 2위 <br>
+(국민은행 사피엔스 4.0 주최) <br>
+[Contest Info](http://www.kbsccoding.com/)
  
 
 <br>
@@ -37,8 +44,8 @@
 <br>
 
 ## Blog
-
-### [DeepDeepit Tistory Blog](https://deepdeepit.tistory.com/)
+### DeepDeepit Tistory Blog
+[deepdeepit.tistory.com](https://deepdeepit.tistory.com/)
 
 
 
