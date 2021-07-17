@@ -10,9 +10,24 @@
 
 <br>
 
-## Research
+## Research&Study
+### Multi-Agent Reinforcement Learning for Multi-UAVs Logistic System
+[Virtual Environment](https://github.com/dmslab-konkuk/LogisticsEnv)
+
+### Virtual Environment for Multi-Agent Reinforcement Learning with Unity3D
+[Rover Tower(MAAC)](https://github.com/dmslab-konkuk/RoverTowerEnv)
+
+### Modified Actor-Attention-Critic for Multi-Agent Reinforcement Learning Model
+
 ### MAAC(Multi-agent Attention Actor-Critic) on Google Football
 [Github](https://github.com/leehe228/TIL/tree/main/football) 
+
+<br>
+
+## Papers
+### 모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구
+한국항공우주학회 2018 추계학술대회 (APISAT 2018 Conference) | [학술발표회 초록집] <br>
+[Link](http://ksas.or.kr/Publications/sub_05_11.asp) 
 
 <br>
 
@@ -32,15 +47,6 @@
 (국민은행 사피엔스 4.0 주최) <br>
 [Contest Info](http://www.kbsccoding.com/)
  
-
-<br>
-
-## Papers
-### 모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구
-한국항공우주학회 2018 추계학술대회 | [학술발표회 초록집] <br>
-[Link](http://ksas.or.kr/Publications/sub_05_11.asp) 
-
-
 <br>
 
 ## CSE Study
