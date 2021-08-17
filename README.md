@@ -1,15 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=240&text=Hoeun%20Lee's%20Github&fontSize=40)
 
-[![Solved.ací”„ë¡œí•„](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228)
+[![Solved.acÇÁ·ÎÇÊ](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228)
 
 [![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=leehe228)
 
-### ê±´êµ­ëŒ€í•™êµ(ì„œìš¸) ì»´í“¨í„°ê³µí•™ë¶€
-í•™ì‚¬ 2í•™ë…„ (ì¬í•™ì¤‘) (2020.03. ~) <br>
+<br>
+
+### °Ç±¹´ëÇĞ±³(¼­¿ï) ÄÄÇ»ÅÍ°øÇĞºÎ
+ÇĞ»ç 2ÇĞ³â (ÀçÇĞÁß) (2020.03. ~) <br>
 [WebSite](http://cse.konkuk.ac.kr/main.do)
 
-### ê±´êµ­ëŒ€í•™êµ(ì„œìš¸) ë¶„ì‚°ì‹œìŠ¤í…œì—°êµ¬ì‹¤ 
-ì‹¬ì¸µê°•í™”í•™ìŠµì—°êµ¬íŒ€ (2021.03. ~) <br>
+### °Ç±¹´ëÇĞ±³(¼­¿ï) ºĞ»ê½Ã½ºÅÛ¿¬±¸½Ç 
+½ÉÃş°­È­ÇĞ½À¿¬±¸ÆÀ (2021.03. ~) <br>
 [WebSite](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
 <br>
@@ -29,32 +31,32 @@
 <br>
 
 ## Papers
-### ëª¨í˜• ìœ„ì„±ì„ í†µí•œ ë¹„í–‰ì²´ ì‹ë³„ ë° ì´ë™ê²½ë¡œ ë¶„ì„ì— ê´€í•œ ì—°êµ¬
-í•œêµ­í•­ê³µìš°ì£¼í•™íšŒ 2018 ì¶”ê³„í•™ìˆ ëŒ€íšŒ (APISAT 2018 Conference) | [í•™ìˆ ë°œí‘œíšŒ ì´ˆë¡ì§‘] <br>
+### ¸ğÇü À§¼ºÀ» ÅëÇÑ ºñÇàÃ¼ ½Äº° ¹× ÀÌµ¿°æ·Î ºĞ¼®¿¡ °üÇÑ ¿¬±¸
+ÇÑ±¹Ç×°ø¿ìÁÖÇĞÈ¸ 2018 Ãß°èÇĞ¼ú´ëÈ¸ (APISAT 2018 Conference) | [ÇĞ¼ú¹ßÇ¥È¸ ÃÊ·ÏÁı] <br>
 [Link](http://ksas.or.kr/Publications/sub_05_11.asp) 
 
 <br>
 
 ## Rewards
-### ëª¨ë¸ ìœ„ì„±ê³¼ ë„í”ŒëŸ¬ íš¨ê³¼ë¥¼ ì´ìš©í•œ ë¨¸ì‹ ëŸ¬ë‹ ì´ë¯¸ì§€ í”„ë¡œì„¸ì‹± ê¸°ë°˜ ë¹„í–‰ì²´ ì¶”ì  ì„±ëŠ¥ì— ê´€í•œ ì—°êµ¬
-2018 ìº”ìœ„ì„±ê²½ì—°ëŒ€íšŒ ê³ ë“±ë¶€ 2ìœ„ <br>
-(KAIST, SaTReC, ê³¼í•™ê¸°ìˆ ì •ë³´í†µì‹ ë¶€, í•œêµ­í•­ê³µìš°ì£¼ì—°êµ¬ì› ë“± ì£¼ìµœ) <br>
+### ¸ğµ¨ À§¼º°ú µµÇÃ·¯ È¿°ú¸¦ ÀÌ¿ëÇÑ ¸Ó½Å·¯´× ÀÌ¹ÌÁö ÇÁ·Î¼¼½Ì ±â¹İ ºñÇàÃ¼ ÃßÀû ¼º´É¿¡ °üÇÑ ¿¬±¸
+2018 ÄµÀ§¼º°æ¿¬´ëÈ¸ °íµîºÎ 2À§ <br>
+(KAIST, SaTReC, °úÇĞ±â¼úÁ¤º¸Åë½ÅºÎ, ÇÑ±¹Ç×°ø¿ìÁÖ¿¬±¸¿ø µî ÁÖÃÖ) <br>
 [Post](https://deepdeepit.tistory.com/45) , [Contest Info](http://cansat.kaist.ac.kr/)
 
-### ê°€ìƒí˜„ì‹¤ê³¼ ë¨¸ì‹ ëŸ¬ë‹ì„ ì´ìš©í•œ ë°œí‘œë ¥ í–¥ìƒ ì†Œí”„íŠ¸ì›¨ì–´
-2018 ì „êµ­ê³ êµë™ì•„ë¦¬SWê²½ì§„ëŒ€íšŒ 1ìœ„ <br>
-(KAIST, SWì¤‘ì‹¬ëŒ€í•™ì‚¬ì—…ë‹¨ ì£¼ìµœ) <br>
+### °¡»óÇö½Ç°ú ¸Ó½Å·¯´×À» ÀÌ¿ëÇÑ ¹ßÇ¥·Â Çâ»ó ¼ÒÇÁÆ®¿ş¾î
+2018 Àü±¹°í±³µ¿¾Æ¸®SW°æÁø´ëÈ¸ 1À§ <br>
+(KAIST, SWÁß½É´ëÇĞ»ç¾÷´Ü ÁÖÃÖ) <br>
 [Post](https://deepdeepit.tistory.com/50) , [Contest Info](https://www.highschool-swcontest.com/)
 
-### ê°€ìƒí˜„ì‹¤ê³¼ ë¨¸ì‹ ëŸ¬ë‹ì„ ì´ìš©í•œ ê¸´ì¥ê° í•´ì†Œ ì†Œí”„íŠ¸ì›¨ì–´
-2019 êµ­ë¯¼ì€í–‰ì†Œí”„íŠ¸ì›¨ì–´ê²½ì§„ëŒ€íšŒ KBSC ê³ ë“±ë¶€ 2ìœ„ <br>
-(êµ­ë¯¼ì€í–‰ ì‚¬í”¼ì—”ìŠ¤ 4.0 ì£¼ìµœ) <br>
+### °¡»óÇö½Ç°ú ¸Ó½Å·¯´×À» ÀÌ¿ëÇÑ ±äÀå°¨ ÇØ¼Ò ¼ÒÇÁÆ®¿ş¾î
+2019 ±¹¹ÎÀºÇà¼ÒÇÁÆ®¿ş¾î°æÁø´ëÈ¸ KBSC °íµîºÎ 2À§ <br>
+(±¹¹ÎÀºÇà »çÇÇ¿£½º 4.0 ÁÖÃÖ) <br>
 [Contest Info](http://www.kbsccoding.com/)
  
 <br>
 
 ## CSE Study
-### ê±´êµ­ëŒ€í•™êµ ì»´í“¨í„°ê³µí•™ë¶€ í•™ì‚¬
+### °Ç±¹´ëÇĞ±³ ÄÄÇ»ÅÍ°øÇĞºÎ ÇĞ»ç
 [Repo](https://github.com/leehe228/Konkuk_Univ_CSE)
 
 <br>
