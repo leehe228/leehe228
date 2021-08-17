@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=240&text=Hoeun%20Lee's%20Github&fontSize=40)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pch6828)](https://solved.ac/profile/pch6828)
+
+[![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=pch6828&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pch6828)
+
 ### 건국대학교(서울) 컴퓨터공학부
 학사 2학년 (재학중) (2020.03. ~) <br>
 [WebSite](http://cse.konkuk.ac.kr/main.do)
