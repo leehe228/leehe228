@@ -1,39 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=240&text=Hoeun%20Lee's%20Github&fontSize=40)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228)
-
-[![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=leehe228)
-
-<br>
-
-### 건국대학교(서울) 컴퓨터공학부
+### **건국대학교(서울) 컴퓨터공학부**
 학사 2학년 (재학중) (2020.03. ~) <br>
 [WebSite](http://cse.konkuk.ac.kr/main.do)
 
-### 건국대학교(서울) 분산시스템연구실 
-심층강화학습연구팀 (2021.03. ~) <br>
+### **건국대학교(서울) 분산시스템연구실**
+심층강화학습연구팀 (2021.03. ~ 2021.12.) <br>
 [WebSite](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
-
-<br>
-
-## Research&Study
-### Multi-Agent Reinforcement Learning for Multi-UAVs Logistic System
-[Virtual Environment](https://github.com/dmslab-konkuk/LogisticsEnv)
-
-### Virtual Environment for Multi-Agent Reinforcement Learning with Unity3D
-[Rover Tower(MAAC)](https://github.com/dmslab-konkuk/RoverTowerEnv)
-
-### Modified Actor-Attention-Critic for Multi-Agent Reinforcement Learning Model
-
-### MAAC(Multi-agent Attention Actor-Critic) on Google Football
-[Github](https://github.com/leehe228/TIL/tree/main/football) 
 
 <br>
 
 ## Papers
 ### 모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구
-한국항공우주학회 2018 추계학술대회 (APISAT 2018 Conference) | [학술발표회 초록집] <br>
+APISAT 2018 Conference | [학술발표회 초록집] <br>
 [Link](http://ksas.or.kr/Publications/sub_05_11.asp) 
+
+### Multi agent reinforcement learning based UAV Control for Urban Aerial Mobility logistics
+APISAT 2021 Conference
 
 <br>
 
@@ -55,17 +36,12 @@
  
 <br>
 
-## CSE Study
-### 건국대학교 컴퓨터공학부 학사
-[Repo](https://github.com/leehe228/Konkuk_Univ_CSE)
+## Websites
+
+- [티스토리 포트폴리오 블로그](https://deepdeepit.tistory.com/)
+- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228) [solved.ac](https://solved.ac/profile/leehe228/) 
+- [알고리즘 공부 블로그](https://velog.io/@leehe228)
 
 <br>
 
-## Blog
-### DeepDeepit Tistory Blog
-[deepdeepit.tistory.com](https://deepdeepit.tistory.com/)
-
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
-
+[![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=leehe228)
