@@ -6,6 +6,15 @@
 
 <br>
 
+### 🎓 Studying On
+**Deep Reinforcement Learning**
+
+**Reinforcement Learning Environment Development**
+
+**Distributed System for Deep Learning**
+
+<br>
+
 ### 📃 Papers
 **Multi agent reinforcement learning based UAV Control for Urban Aerial Mobility logistics (2021)** <br> [APISAT 2021 Conference](https://apisat2021.org/) 
 
