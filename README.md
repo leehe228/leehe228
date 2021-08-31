@@ -1,16 +1,16 @@
-### **°Ç±¹´ëÇĞ±³(¼­¿ï) ÄÄÇ»ÅÍ°øÇĞºÎ**
-ÇĞ»ç 2ÇĞ³â (ÀçÇĞÁß) (2020.03. ~) <br>
+### **ê±´êµ­ëŒ€í•™êµ(ì„œìš¸) ì»´í“¨í„°ê³µí•™ë¶€**
+í•™ì‚¬ 2í•™ë…„ (ì¬í•™ì¤‘) (2020.03. ~) <br>
 [WebSite](http://cse.konkuk.ac.kr/main.do)
 
-### **°Ç±¹´ëÇĞ±³(¼­¿ï) ºĞ»ê½Ã½ºÅÛ¿¬±¸½Ç**
-½ÉÃş°­È­ÇĞ½À¿¬±¸ÆÀ (2021.03. ~ 2021.12.) <br>
+### **ê±´êµ­ëŒ€í•™êµ(ì„œìš¸) ë¶„ì‚°ì‹œìŠ¤í…œì—°êµ¬ì‹¤**
+ì‹¬ì¸µê°•í™”í•™ìŠµì—°êµ¬íŒ€ (2021.03. ~ ) <br>
 [WebSite](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
 <br>
 
 ## Papers
-### ¸ğÇü À§¼ºÀ» ÅëÇÑ ºñÇàÃ¼ ½Äº° ¹× ÀÌµ¿°æ·Î ºĞ¼®¿¡ °üÇÑ ¿¬±¸
-APISAT 2018 Conference | [ÇĞ¼ú¹ßÇ¥È¸ ÃÊ·ÏÁı] <br>
+### ëª¨í˜• ìœ„ì„±ì„ í†µí•œ ë¹„í–‰ì²´ ì‹ë³„ ë° ì´ë™ê²½ë¡œ ë¶„ì„ì— ê´€í•œ ì—°êµ¬
+APISAT 2018 Conference | [í•™ìˆ ë°œí‘œíšŒ ì´ˆë¡ì§‘] <br>
 [Link](http://ksas.or.kr/Publications/sub_05_11.asp) 
 
 ### Multi agent reinforcement learning based UAV Control for Urban Aerial Mobility logistics
@@ -19,28 +19,28 @@ APISAT 2021 Conference
 <br>
 
 ## Rewards
-### ¸ğµ¨ À§¼º°ú µµÇÃ·¯ È¿°ú¸¦ ÀÌ¿ëÇÑ ¸Ó½Å·¯´× ÀÌ¹ÌÁö ÇÁ·Î¼¼½Ì ±â¹İ ºñÇàÃ¼ ÃßÀû ¼º´É¿¡ °üÇÑ ¿¬±¸
-2018 ÄµÀ§¼º°æ¿¬´ëÈ¸ °íµîºÎ 2À§ <br>
-(KAIST, SaTReC, °úÇĞ±â¼úÁ¤º¸Åë½ÅºÎ, ÇÑ±¹Ç×°ø¿ìÁÖ¿¬±¸¿ø µî ÁÖÃÖ) <br>
+### ëª¨ë¸ ìœ„ì„±ê³¼ ë„í”ŒëŸ¬ íš¨ê³¼ë¥¼ ì´ìš©í•œ ë¨¸ì‹ ëŸ¬ë‹ ì´ë¯¸ì§€ í”„ë¡œì„¸ì‹± ê¸°ë°˜ ë¹„í–‰ì²´ ì¶”ì  ì„±ëŠ¥ì— ê´€í•œ ì—°êµ¬
+2018 ìº”ìœ„ì„±ê²½ì—°ëŒ€íšŒ ê³ ë“±ë¶€ 2ìœ„ <br>
+(KAIST, SaTReC, ê³¼í•™ê¸°ìˆ ì •ë³´í†µì‹ ë¶€, í•œêµ­í•­ê³µìš°ì£¼ì—°êµ¬ì› ë“± ì£¼ìµœ) <br>
 [Post](https://deepdeepit.tistory.com/45) , [Contest Info](http://cansat.kaist.ac.kr/)
 
-### °¡»óÇö½Ç°ú ¸Ó½Å·¯´×À» ÀÌ¿ëÇÑ ¹ßÇ¥·Â Çâ»ó ¼ÒÇÁÆ®¿ş¾î
-2018 Àü±¹°í±³µ¿¾Æ¸®SW°æÁø´ëÈ¸ 1À§ <br>
-(KAIST, SWÁß½É´ëÇĞ»ç¾÷´Ü ÁÖÃÖ) <br>
+### ê°€ìƒí˜„ì‹¤ê³¼ ë¨¸ì‹ ëŸ¬ë‹ì„ ì´ìš©í•œ ë°œí‘œë ¥ í–¥ìƒ ì†Œí”„íŠ¸ì›¨ì–´
+2018 ì „êµ­ê³ êµë™ì•„ë¦¬SWê²½ì§„ëŒ€íšŒ 1ìœ„ <br>
+(KAIST, SWì¤‘ì‹¬ëŒ€í•™ì‚¬ì—…ë‹¨ ì£¼ìµœ) <br>
 [Post](https://deepdeepit.tistory.com/50) , [Contest Info](https://www.highschool-swcontest.com/)
 
-### °¡»óÇö½Ç°ú ¸Ó½Å·¯´×À» ÀÌ¿ëÇÑ ±äÀå°¨ ÇØ¼Ò ¼ÒÇÁÆ®¿ş¾î
-2019 ±¹¹ÎÀºÇà¼ÒÇÁÆ®¿ş¾î°æÁø´ëÈ¸ KBSC °íµîºÎ 2À§ <br>
-(±¹¹ÎÀºÇà »çÇÇ¿£½º 4.0 ÁÖÃÖ) <br>
+### ê°€ìƒí˜„ì‹¤ê³¼ ë¨¸ì‹ ëŸ¬ë‹ì„ ì´ìš©í•œ ê¸´ì¥ê° í•´ì†Œ ì†Œí”„íŠ¸ì›¨ì–´
+2019 êµ­ë¯¼ì€í–‰ì†Œí”„íŠ¸ì›¨ì–´ê²½ì§„ëŒ€íšŒ KBSC ê³ ë“±ë¶€ 2ìœ„ <br>
+(êµ­ë¯¼ì€í–‰ ì‚¬í”¼ì—”ìŠ¤ 4.0 ì£¼ìµœ) <br>
 [Contest Info](http://www.kbsccoding.com/)
  
 <br>
 
 ## Websites
 
-- [Æ¼½ºÅä¸® Æ÷Æ®Æú¸®¿À ºí·Î±×](https://deepdeepit.tistory.com/)
-- [![Solved.acÇÁ·ÎÇÊ](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228) [solved.ac](https://solved.ac/profile/leehe228/) 
-- [¾Ë°í¸®Áò °øºÎ ºí·Î±×](https://velog.io/@leehe228)
+- [í‹°ìŠ¤í† ë¦¬ í¬íŠ¸í´ë¦¬ì˜¤ ë¸”ë¡œê·¸](https://deepdeepit.tistory.com/)
+- [![Solved.ací”„ë¡œí•„](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228) [solved.ac](https://solved.ac/profile/leehe228/) 
+- [ì•Œê³ ë¦¬ì¦˜ ê³µë¶€ ë¸”ë¡œê·¸](https://velog.io/@leehe228)
 
 <br>
 
