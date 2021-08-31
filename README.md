@@ -2,7 +2,7 @@
 
 **🔬 건국대학교(서울) 분산시스템연구실** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ ) <br> [WebSite](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/CV.md)
+**🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
 <br>
 
