@@ -1,24 +1,25 @@
 ### **건국대학교(서울) 컴퓨터공학부**
-학사 2학년 (재학중) (2020.03. ~) <br>
+학사 2학년 2학기 (재학중) (2020.03. ~) <br>
 [WebSite](http://cse.konkuk.ac.kr/main.do)
 
 ### **건국대학교(서울) 분산시스템연구실**
-심층강화학습연구팀 (2021.03. ~ ) <br>
+심층강화학습연구팀 학부연구생 (2021.03. ~ ) <br>
 [WebSite](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
 ### **충남삼성고등학교**
-IT디플로마 & HONOR 디플로마 이수 및 졸업 (2017.03. ~ 2020.02.) <br>
+IT디플로마 & HONOR디플로마 이수 및 졸업 (2017.03. ~ 2020.02.) <br>
 [Website](https://cnsa.hs.kr/hpw)
 
 <br>
 
 ## Papers
-### 모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구
+### Multi agent reinforcement learning based UAV Control for Urban Aerial Mobility logistics (2021)
+APISAT 2021 Conference <br>
+[Link](https://apisat2021.org/)
+
+### 모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구 (2018)
 APISAT 2018 Conference | [학술발표회 초록집] <br>
 [Link](http://ksas.or.kr/Publications/sub_05_11.asp) 
-
-### Multi agent reinforcement learning based UAV Control for Urban Aerial Mobility logistics
-APISAT 2021 Conference
 
 <br>
 
