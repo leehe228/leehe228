@@ -6,6 +6,10 @@
 심층강화학습연구팀 (2021.03. ~ ) <br>
 [WebSite](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
+### **충남삼성고등학교**
+IT디플로마 & HONOR 디플로마 이수 및 졸업 (2017.03. ~ 2020.02.) <br>
+[Website](https://cnsa.hs.kr/hpw)
+
 <br>
 
 ## Papers
