@@ -3,7 +3,7 @@ Konkuk University, Seoul, Korea <br>
 Bachelor degree expected in of Computer Science & Engineering <br>
 (Currently attending the Fourth Semester) <br>
 **Expected Graduation** : Feb 2024 <br>
-**Cumulative GPA** : 4.47 (4.50 for Major Subjects) 
+**Cumulative GPA** : 4.47/4.50 (99.7/100) (4.50/4.50, 100/100 for Major Subjects) 
 
 <br>
 
@@ -39,9 +39,9 @@ Fight (UAV) (Multi-Agent)
 <br>
 
 ### Honors and Awards
-- ±¹¹ÎÀºÇà¼ÒÇÁÆ®¿ş¾î°æÁø´ëÈ¸ KBSC °íµîºÎ 2À§ (±¹¹ÎÀºÇà, »çÇÇ¿£½º 4.0)
-- ÄµÀ§¼ºÃ¼Çè°æ¿¬´ëÈ¸ °íµîºÎ 2À§ (KAIST, °úÇĞ±â¼úÁ¤º¸Åë½ÅºÎ, KARI, SaTReC)
-- Àü±¹°í±³µ¿¾Æ¸®¼ÒÇÁÆ®¿ş¾î°æÁø´ëÈ¸ 1À§ (KAIST, SWÁß½É´ëÇĞ»ç¾÷´Ü)
+- êµ­ë¯¼ì€í–‰ì†Œí”„íŠ¸ì›¨ì–´ê²½ì§„ëŒ€íšŒ KBSC ê³ ë“±ë¶€ 2ìœ„ (êµ­ë¯¼ì€í–‰, ì‚¬í”¼ì—”ìŠ¤ 4.0)
+- ìº”ìœ„ì„±ì²´í—˜ê²½ì—°ëŒ€íšŒ ê³ ë“±ë¶€ 2ìœ„ (KAIST, ê³¼í•™ê¸°ìˆ ì •ë³´í†µì‹ ë¶€, KARI, SaTReC)
+- ì „êµ­ê³ êµë™ì•„ë¦¬ì†Œí”„íŠ¸ì›¨ì–´ê²½ì§„ëŒ€íšŒ 1ìœ„ (KAIST, SWì¤‘ì‹¬ëŒ€í•™ì‚¬ì—…ë‹¨)
 
 <br>
 
