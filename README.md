@@ -1,6 +1,6 @@
 ### **건국대학교(서울) 컴퓨터공학부**
 학사 2학년 2학기 (재학중) (2020.03. ~) <br>
-[WebSite](http://cse.konkuk.ac.kr/main.do) , [Github Repo](https://github.com/Konkuk-CSE)
+[WebSite](http://cse.konkuk.ac.kr/main.do) , [Github Repo](https://github.com/leehe228/Konkuk-CSE)
 
 ### **건국대학교(서울) 분산시스템연구실**
 심층강화학습연구팀 학부연구생 (2021.03. ~ ) <br>
