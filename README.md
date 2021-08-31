@@ -42,9 +42,8 @@ APISAT 2018 Conference | [학술발표회 초록집] <br>
 <br>
 
 ## Websites
-
-- [티스토리 포트폴리오 블로그](https://deepdeepit.tistory.com/)
 - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228) [solved.ac](https://solved.ac/profile/leehe228/) 
+- [티스토리 포트폴리오 블로그](https://deepdeepit.tistory.com/)
 - [알고리즘 공부 블로그](https://velog.io/@leehe228)
 
 <br>
