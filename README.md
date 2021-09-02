@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehe228)](https://solved.ac/leehe228/)
+![leehe228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leehe228)
 
 [![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=leehe228)
 
