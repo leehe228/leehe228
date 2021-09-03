@@ -4,9 +4,11 @@
 
 **🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
+**🎓 충남삼성고등학교** <br> IT디플로마&Honor디플로마 (2020.02. 졸업) <br> [homepage](https://cnsa.hs.kr/hpw) , [CNSA IT homepage](http://it.cnsa.hs.kr/)
+
 <br>
 
-### 🎓 Studying On
+### 🥁 Studying On
 **Deep Reinforcement Learning**
 
 **Reinforcement Learning Environment Development**
@@ -28,6 +30,10 @@
 **가상현실과 머신러닝을 이용한 발표력 향상 소프트웨어** <br> 2018 전국고교동아리SW경진대회 1위 <br> (KAIST, SW중심대학사업단 주최) <br> [Post](https://deepdeepit.tistory.com/50) , [Contest Info](https://www.highschool-swcontest.com/)
 
 **가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어** <br> 2019 국민은행소프트웨어경진대회 KBSC 고등부 2위 <br> (국민은행 사피엔스 4.0 주최) <br> [Contest Info](http://www.kbsccoding.com/)
+
+<br>
+
+### 🔧 Computer Skills
 
 <br>
 
