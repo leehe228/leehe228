@@ -16,7 +16,7 @@
 <br>
 
 ### 📃 Papers
-**Multi agent reinforcement learning based UAV Control for Urban Aerial Mobility logistics (2021)** <br> Author and Researcher <br> [APISAT 2021 Conference](https://apisat2021.org/) 
+**Multi agent reinforcement learning based UAV Control for Urban Aerial Mobility logistics (2021)** <br> The Second Author and Researcher <br> [APISAT 2021 Conference](https://apisat2021.org/) 
 
 **모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구 (2018)** <br> Author and Team Leader <br> [한국항공우주학회](http://ksas.or.kr/) | [추계학술대회 - 학술발표회 초록집](http://ksas.or.kr/Publications/sub_05_11.asp) 
 
