@@ -1,6 +1,6 @@
-**🏫 건국대학교(서울) 컴퓨터공학부** <br> 학사 2학년 2학기 (재학중) (2020.03. ~) <br> [WebSite](http://cse.konkuk.ac.kr/main.do) , [Github Repo](https://github.com/leehe228/Konkuk-CSE) 
+**🏫 건국대학교(서울) 컴퓨터공학부** <br> 학사 2학년 2학기 (재학중) (2020.03. ~) <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
 
-**🔬 건국대학교(서울) 분산시스템연구실** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ ) <br> [WebSite](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
+**🔬 건국대학교(서울) 분산시스템연구실** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ ) <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
 **🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
@@ -34,8 +34,8 @@
 ### 💻 My Websites
 - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228)
 - [Baekjoon 프로필](https://www.acmicpc.net/user/leehe228)
-- [티스토리 포트폴리오 블로그](https://deepdeepit.tistory.com/)
-- [알고리즘 공부 블로그](https://velog.io/@leehe228)
+- [포트폴리오 블로그 (Tistory)](https://deepdeepit.tistory.com/)
+- [알고리즘 공부 블로그 (Velog)](https://velog.io/@leehe228)
 
 <br>
 
