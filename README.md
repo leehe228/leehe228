@@ -33,15 +33,17 @@
 
 <br>
 
-### 🔧 Computer Skills
-
-<br>
-
 ### 💻 My Websites
 - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228)
 - [Baekjoon 프로필](https://www.acmicpc.net/user/leehe228)
 - [포트폴리오 블로그 (Tistory)](https://deepdeepit.tistory.com/)
 - [알고리즘 공부 블로그 (Velog)](https://velog.io/@leehe228)
+
+<br>
+
+### 📞 Contact me
+✉ leehe228@konkuk.ac.kr
+
 
 <br>
 
