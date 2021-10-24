@@ -31,6 +31,8 @@
 
 **가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어** <br> 2019 국민은행소프트웨어경진대회 KBSC 고등부 2위 <br> (국민은행 사피엔스 4.0 주최) <br> [Contest Info](http://www.kbsccoding.com/)
 
+**Dean's List** <br> 2020-2학기, 2021-1학기 <br> 건국대학교 컴퓨터공학부 Dean's List (성적우수상) 
+
 <br>
 
 ### 🎨 Projects
