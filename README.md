@@ -1,6 +1,8 @@
-**🏫 건국대학교(서울) 컴퓨터공학부** <br> 학사 2학년 2학기 (재학중) (2020.03. ~) <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
+**🏫 건국대학교(서울) 컴퓨터공학부** <br> (2020.03. ~) <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
 
-**🔬 건국대학교(서울) 분산시스템연구실** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ ) <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
+**🔬 건국대학교(서울) 분산시스템연구실** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ 2022.01.) <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
+
+**🛫 현역 공군 전자계산병 복무 예정** <br> (2021.01. ~ )
 
 **🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
