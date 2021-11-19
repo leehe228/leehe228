@@ -2,7 +2,7 @@
 
 **🔬 건국대학교(서울) 분산시스템연구실** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ 2022.01.) <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🛫 현역 공군 전자계산병 복무 예정** <br> (2021.01. ~ )
+**🛫 현역 공군 전자계산병 복무 예정** <br> (2022.01. ~ 2023.10.)
 
 **🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
