@@ -1,12 +1,12 @@
-**🏫 건국대학교(서울) 컴퓨터공학부** <br> (2020.03. ~) <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
+**🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> (2020.03. ~) <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
 
-**🔬 건국대학교(서울) 분산시스템연구실** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ 2022.01.) <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
+**🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ 2022.01.) <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🛫 현역 공군병 복무 예정** <br> (2022.01. ~ 2023.10.)
+**🛫 현역 공군 (ROKAF)** <br> (2022.01. ~ 2023.10.)
 
 **🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
-**🎓 충남삼성고등학교** <br> IT디플로마&Honor디플로마 (2020.02. 졸업) <br> [homepage](https://cnsa.hs.kr/hpw) , [CNSA IT homepage](http://it.cnsa.hs.kr/)
+**🎓 충남삼성고등학교 / Chungnam Samsung Aacademy (High School)** <br> IT디플로마&Honor디플로마 (2020.02. 졸업) <br> [homepage](https://cnsa.hs.kr/hpw) , [CNSA IT homepage](http://it.cnsa.hs.kr/)
 
 <br>
 
