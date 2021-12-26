@@ -13,7 +13,8 @@ Konkuk University, Seoul, Korea <br>
 Bachelor degree expected in of Computer Science & Engineering <br>
 (Currently attending the Fourth Semester) <br>
 **Expected Graduation** : Feb 2026 <br>
-**Cumulative GPA** : **4.47**/4.50 (99.7%) (**4.50**/4.50, 100% for Major Subjects) 
+**Cumulative GPA** : **4.47**/4.50 (99.7%) (**4.50**/4.50, 100% for Major Subjects) <br>
+**Rank** : **1st/213** (in Dept. of Computer Science & Engineering)
 
 <br>
 
