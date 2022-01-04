@@ -2,7 +2,7 @@
 
 **🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습연구팀 학부연구생 (2021.03. ~ 2022.01.) <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🛫 현역 공군 (ROKAF)** <br> (2022.01. ~ 2023.10.)
+**🛫 대한민국공군 ROKAF 현역병 복무중** <br> (2022.01. ~ 2023.10.)
 
 **🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
@@ -31,13 +31,15 @@
 
 **가상현실과 머신러닝을 이용한 발표력 향상 소프트웨어** <br> 2018 전국고교동아리SW경진대회 1위 <br> (KAIST, SW중심대학사업단 주최) <br> [Post](https://deepdeepit.tistory.com/50) , [Contest Info](https://www.highschool-swcontest.com/)
 
-**가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어** <br> 2019 국민은행소프트웨어경진대회 KBSC 고등부 2위 <br> (국민은행 사피엔스 4.0 주최) <br> [Contest Info](http://www.kbsccoding.com/)
+**가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어** <br> 2019 국민은행소프트웨어경진대회 KBSC 고등부 2위 <br> (국민은행 사피엔스 4.0 주최) <br> [Contest Info](https://www.kbsccoding.com/board/board.php?bo_table=notice&wr_id=42&page=2)
 
-**Dean's List** <br> 2020-2학기, 2021-1학기 <br> 건국대학교 컴퓨터공학부 Dean's List (성적우수상) 
+**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 에코버스** <br> 2021 국민은행소프트웨어경진대회 KBSC 대상 (1위) <br> (국민은행 사피엔스 4.0 주최) / Lead Developer <br> [Contest Info](https://www.kbsccoding.com/board/board.php?bo_table=notice&wr_id=67)
+
+**Dean's List** <br> 2020-2학기, 2021-1학기, 2021-2학기 <br> 건국대학교 컴퓨터공학부 Dean's List (성적우수상) 
 
 <br>
 
-### 🎨 Projects
+### 🎨 Projects (정리중)
 **사용자 맞춤형 온라인 전시회 플랫폼** <br> 2020
 
 **인공지능을 활용한 사용자 질병 예측 및 의료 진단 도우미 앱** <br> 2020
@@ -47,6 +49,8 @@
 **가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어** <br> 2019
 
 **가상현실과 머신러닝을 이용한 발표력 향상 소프트웨어** <br> 2018
+
+**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 에코버스** <br> 2021
 
 <br>
 
