@@ -26,7 +26,7 @@
 
 <br>
 
-### 🏆 Rewards
+### 🏆 Awards
 **모델 위성과 도플러 효과를 이용한 머신러닝 이미지 프로세싱 기반 비행체 추적 성능에 관한 연구** <br> 2018 캔위성경연대회 고등부 2위 <br> (KAIST, SaTReC, 과학기술정보통신부, 한국항공우주연구원 등 주최) <br> [Post](https://deepdeepit.tistory.com/45) , [Contest Info](http://cansat.kaist.ac.kr/)
 
 **가상현실과 머신러닝을 이용한 발표력 향상 소프트웨어** <br> 2018 전국고교동아리SW경진대회 1위 <br> (KAIST, SW중심대학사업단 주최) <br> [Post](https://deepdeepit.tistory.com/50) , [Contest Info](https://www.highschool-swcontest.com/)
