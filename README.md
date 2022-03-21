@@ -44,24 +44,24 @@
 <br>
 
 ### 🎨 Projects (정리중)
-< Reinforcement Learning >
+**< Reinforcement Learning >** <br>
 **UAM Logistics Environment and Research** <br> 2021, PyTorch, Unity 3D(C#) <br> [Github Repo](https://github.com/dmslab-konkuk/LogisticsEnv)
 
 **Rover Tower Environment** <br> 2021, Tensorflow, Unity 3D(C#) <br> [Github Repo](https://github.com/dmslab-konkuk/RoverTowerEnv)
 
-< Machine Learning Projects >
+**< Machine Learning Projects >** <br>
 **Object Detection in Aerial Images and Fast R-CNN Training, Testing** <br> 2021, DOTA Dataset, Fast R-CNN(Keras) <br> [Post](https://deepdeepit.tistory.com/126)
 
 **자율주행차 유스챌린지 프로젝트** <br> 2020, Arduino(ObjectC) <br> [Post](https://deepdeepit.tistory.com/103)
 
-< Applications >
+**< Applications >** <br>
 **사용자 맞춤형 온라인 전시회 플랫폼** <br> 2020, HTML, CSS, JS, Django, Android Application(JAVA) <br> [Post](https://deepdeepit.tistory.com/104) , [Github Repo](https://github.com/leehe228/Django_Palette)
 
 **인공지능을 활용한 사용자 질병 예측 및 의료 진단 도우미 앱** <br> 2020, Android Application(JAVA) <br> [Post](https://deepdeepit.tistory.com/101)
 
 **시각장애인들을 위한 들리는 미술관 플랫폼 서비스** <br> 2020, Android Application(JAVA)
 
-< VR and Metaverse >
+**< VR and Metaverse >** <br>
 **환경 인식을 키울 수 있게 도와주는 교육용 메타버스 에코버스** <br> 2021, Unity3D(C#), Django <br> [Github Repo](https://github.com/leehe228/Ecoverse)
 
 **가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어** <br> 2019, Unity3D(C#), Arduino(ObjectC), Django
