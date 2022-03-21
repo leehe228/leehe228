@@ -49,6 +49,8 @@
 
 **Rover Tower Environment** <br> 2021, Tensorflow, Unity 3D(C#) <br> [Github Repo](https://github.com/dmslab-konkuk/RoverTowerEnv)
 
+**Connetc6 육목 강화학습 + MCTS 인공지능 개발** <br> 2021, Tensorflow <br> [Github Repo](https://github.com/leehe228/Connect6RL)
+
 **< Machine Learning Projects >** <br>
 **Object Detection in Aerial Images and Fast R-CNN Training, Testing** <br> 2021, DOTA Dataset, Fast R-CNN(Keras) <br> [Post](https://deepdeepit.tistory.com/126)
 
