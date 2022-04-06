@@ -2,7 +2,7 @@
 
 **🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습연구팀 학부연구생, 2021.03. ~ <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🛫 대한민국공군 ROKAF 현역병 복무중** <br> 2022.01. ~ 2023.10.
+**🛫 대한민국 공군 현역병 복무중 (R.O.K. Air Force)** <br> 2022.01. ~ 2023.10.
 
 **🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
@@ -15,9 +15,9 @@
 
 **Reinforcement Learning Environment Development**
 
-**Distributed System for Deep Learning(RAY)**
+**Distributed System for Deep Learning**
 
-**Automated Reinforcement Learning**
+**UAM, UAS Path Planning by Reinforcement Learning**
 
 <br>
 
