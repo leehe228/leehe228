@@ -24,7 +24,7 @@
 ### 📃 Papers
 **Multi-agent Reinforcement Learning based on** <br> **Fusion Multi-Actor Attention Critic for multiple Unmanned Aerial Vehicle navigation control** <br> Sangwoo Jeon, **Hoeun Lee**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, and Dugki Min <br> SCIE Journal Article (Accepted.), [Abstract](https://www.mdpi.com/1996-1073/15/19/7426), [MDPI Energies](https://www.mdpi.com/journal/energies)
 
-**Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min & Jae-Woo Lee  <br> Conference Paper (30 Sep 2022), [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
+**Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min and Jae-Woo Lee  <br> Conference Paper (30 Sep 2022), [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
 
 **모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구 (2018)** <br> Author and Team Leader <br> [한국항공우주학회](http://ksas.or.kr/) | [추계학술대회 - 학술발표회 초록집](http://ksas.or.kr/Publications/sub_05_11.asp) 
 
