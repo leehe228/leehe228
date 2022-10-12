@@ -1,4 +1,4 @@
-**🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 학사 2학년 수석 수료, 군휴학 중, 2020.03. ~ <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
+**🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 학사 2학년 수석 수료, 군휴학 중, 학점 4.47/4.50, 2020.03. ~ <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
 
 **🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습연구팀 학부연구생, 2021.03. ~ <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
@@ -22,16 +22,16 @@
 <br>
 
 ### 📃 Papers
-**Multi-agent Reinforcement Learning based on** <br> **Fusion Multi-Actor Attention Critic for multiple Unmanned Aerial Vehicle navigation control** <br> Sangwoo Jeon, **Hoeun Lee**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, and Dugki Min <br> SCIE Journal Article (Accepted.), [Abstract](https://www.mdpi.com/1996-1073/15/19/7426), [MDPI Energies](https://www.mdpi.com/journal/energies)
+**Multiagent Reinforcement Learning Based on** <br> **Fusion-Multiactor-Attention-Critic for Multiple-Unmanned-Aerial-Vehicle Navigation Control** <br> Sangwoo Jeon, **Hoeun Lee**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, and Dugki Min <br> MDPI Energies 2022, 15(19), 7426; (SCIE) (10 Oct 2022)<br> [Abstract](https://www.mdpi.com/1996-1073/15/19/7426), [MDPI Energies](https://www.mdpi.com/journal/energies)
 
-**Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min and Jae-Woo Lee  <br> Conference Paper (30 Sep 2022), [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
+**Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min and Jae-Woo Lee  <br> Springer LNEE, volume 913 (SCOPUS) (30 Sep 2022), APISAT 2021 Conference Paper <br> [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
 
-**모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구 (2018)** <br> Author and Team Leader <br> 한국항공우주학회 학술발표회 초록집, [Abstract](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07619770), [한국항공우주학회](http://ksas.or.kr/)
+**모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구 (2018)** <br> **이호은**, 이민형, 양승은, 김용민 <br> 한국항공우주학회 (Journal of The Korean Society for Aeronautical & Space Sciences) (Nov 2018) <br> [Abstract](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07619770), [한국항공우주학회](http://ksas.or.kr/)
 
 <br>
 
 ### 🏆 Awards
-**산림, 여행을 책임지는 산림꾼 앱** <br> 2022 산림 공공·빅데이터 활용 창업경진대회 아이디어 기획 부문 장려상 <br> (산림청 주최) / 기술 기획 및 설계 담당(머신러닝 및 강화학습) <br> [Contest Info](https://www.bigdata-forest.kr/support/notice/20220818173423)
+**산림&여행을 책임지는 산림꾼 앱** <br> 2022 산림 공공·빅데이터 활용 창업경진대회 아이디어 기획 부문 장려상 <br> (산림청 주최) / 기술 기획 및 설계 담당(머신러닝 및 강화학습) <br> [Contest Info](https://www.bigdata-forest.kr/support/notice/20220818173423)
 
 **환경 인식을 키울 수 있게 도와주는 교육용 메타버스 에코버스** <br> 2021 국민은행소프트웨어경진대회 KBSC 대상 1위 <br> (국민은행 사피엔스 4.0 주최) / Lead Developer <br> [Contest Info](https://www.kbsccoding.com/board/board.php?bo_table=notice&wr_id=67) , [Github Repo](https://github.com/leehe228/Ecoverse)
 
@@ -93,7 +93,5 @@
 <div align="center">
 
 ![leehe228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leehe228)
-
-[![pch6828's github stats](https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=leehe228)
 
 </div>
