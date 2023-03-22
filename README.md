@@ -1,9 +1,9 @@
 ### 🧑 I'am
-제 이름은 **이호은(HOEUN LEE)** 입니다. 저는 **인공지능 연구개발자**를 꿈꾸는 <br> 2001년생(만 22세) 휴학생(현재 공군 복무중)입니다.
+제 이름은 **이호은(HOEUN LEE)** 입니다. 저는 **인공지능 연구개발자**를 꿈꾸는 <br> 2001년생(만 22세) 대학 휴학생(현재 공군 복무중)입니다.
 
 <br>
 
-**🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 학사 2학년 수석 수료, 군휴학 중, 학점 4.47/4.50, 2020.03. ~ <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
+**🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 학사 2학년 수석 수료, 군휴학 중(24-1 복학예정) <br> 학점(GPA) 4.47/4.50, 2025-1학기 졸업예정, 2020.03. ~  <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
 
 **🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습(DRL)연구팀 학부연구생, 2021.03. ~ <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
