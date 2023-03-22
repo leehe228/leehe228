@@ -1,15 +1,15 @@
 ### 🧑 I'am
-**인공지능 연구개발자**를 꿈꾸는 2001년생(만 22세) 휴학생(현재 공군 복무중)입니다.
+제 이름은 **이호은(HOEUN LEE)** 입니다. 저는 **인공지능 연구개발자**를 꿈꾸는 <br> 2001년생(만 22세) 휴학생(현재 공군 복무중)입니다.
 
 <br>
 
 **🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 학사 2학년 수석 수료, 군휴학 중, 학점 4.47/4.50, 2020.03. ~ <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
 
-**🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습연구팀 학부연구생, 2021.03. ~ <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
+**🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습(DRL)연구팀 학부연구생, 2021.03. ~ <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🛫 대한민국 공군 현역병 복무중 (R.O.K. Air Force)** <br> 2022. 1. 10. ~ 2023. 10. 9.
+**🛫 대한민국 공군 현역병 복무중 (Republic of Korea Air Force)** <br> 2022. 1. 10. ~ 2023. 10. 9.
 
-**🎪 Curriculum Vitae** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
+**🎪 Curriculum Vitae (Resume)** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
 **🎓 충남삼성고등학교 / Chungnam Samsung Aacademy (High School)** <br> IT디플로마&Honor디플로마 (2020.02. 졸업) <br> [homepage](https://cnsa.hs.kr/hpw) , [CNSA IT homepage](http://it.cnsa.hs.kr/)
 
