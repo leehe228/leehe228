@@ -36,6 +36,8 @@
 <br>
 
 ### 🏆 Awards
+**일조분석 기능과 머신러닝 기반 태양광발전량 예측 기술을 활용한 개별 가구용 태양광발전 손익계산 서비스** <br> 2023 LH 도시 디지털트윈 아이디어 공모전 참가상 <br> (LH 한국토지주택공사 주최) / 기획 및 설계 <br> [Contenst Info](http://www.lh-digital.co.kr/view.asp?idx=170&boardcode=notice&go=&field=&keyword=&page=)
+
 **산림&여행을 책임지는 산림꾼 앱** <br> 2022 산림 공공·빅데이터 활용 창업경진대회 아이디어 기획 부문 장려상 <br> (산림청 주최) / 기술 기획 및 설계 담당(머신러닝 및 강화학습) <br> [Contest Info](https://www.bigdata-forest.kr/support/notice/20220818173423)
 
 **환경 인식을 키울 수 있게 도와주는 교육용 메타버스 에코버스** <br> 2021 국민은행소프트웨어경진대회 KBSC 대상 1위 <br> (국민은행 사피엔스 4.0 주최) / Lead Developer <br> [Contest Info](https://www.kbsccoding.com/board/board.php?bo_table=notice&wr_id=67) , [Github Repo](https://github.com/leehe228/Ecoverse)
