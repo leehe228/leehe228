@@ -20,7 +20,7 @@
 
 **Mobile App Development & Server Backend Development**
 
-**AI on Mobile Software Platform**
+**AI/ML on Mobile Software Platform**
 
 **Software Engineering and DevOps**
 
