@@ -16,20 +16,20 @@
 <br>
 
 ### 🥁 Studying On
-**Deep Reinforcement Learning**
+**Deep Reinforcement Learning and Environment**
 
-**Reinforcement Learning Environment Development**
+**Mobile App Development & Server Backend Development**
 
-**Distributed System for Deep Learning**
+**AI on Mobile Software Platform**
 
-**UAM, UAS Path Planning by Reinforcement Learning**
+**Software Engineering and DevOps**
 
 <br>
 
 ### 📃 Papers
-**Multiagent Reinforcement Learning Based on** <br> **Fusion-Multiactor-Attention-Critic for Multiple-Unmanned-Aerial-Vehicle Navigation Control** <br> Sangwoo Jeon, **Hoeun Lee**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, and Dugki Min <br> MDPI Energies 2022, 15(19), 7426; (SCIE) (10 Oct 2022)<br> [Abstract](https://www.mdpi.com/1996-1073/15/19/7426), [MDPI Energies](https://www.mdpi.com/journal/energies)
+**Multiagent Reinforcement Learning Based on** <br> **Fusion-Multiactor-Attention-Critic for Multiple-Unmanned-Aerial-Vehicle Navigation Control** <br> Sangwoo Jeon, **Hoeun Lee**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, and Dugki Min <br> MDPI Energies 2022, 15(19), 7426; (***SCIE***) (10 Oct 2022)<br> [Abstract](https://www.mdpi.com/1996-1073/15/19/7426), [MDPI Energies](https://www.mdpi.com/journal/energies)
 
-**Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min and Jae-Woo Lee  <br> Springer LNEE, volume 913 (SCOPUS) (30 Sep 2022), APISAT 2021 Conference Paper <br> [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
+**Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min and Jae-Woo Lee  <br> Springer LNEE, volume 913 (***SCOPUS***) (30 Sep 2022), APISAT 2021 Conference Paper <br> [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
 
 **모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구** <br> **(Aircraft Identification and Route Tracking using a Model Satellite)** <br> **이호은**, 이민형, 양승은, 김용민 <br> 한국항공우주학회 (Journal of The Korean Society for Aeronautical & Space Sciences) (Nov 2018) <br> [Abstract](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07619770), [한국항공우주학회](http://ksas.or.kr/)
 
