@@ -64,7 +64,13 @@ First Author / Leader
 <br>
 
 ### Honors and Awards
-- **Start-up Competition using Forest Public Big Data** - Participation Prize
+
+- **2023 Republic of Korea AirForce Hackathon - AI Program** - 4th place (Encouragement Prize)
+<br> 제 5회 2023 공군 창의∙혁신 아이디어 공모 해커톤 - 장려상(4위)
+<br> from 대한민국 공군 (R.O.K. AirForce) / Nov. 2023
+<br> AI Engineer, Team Leader / PyTorch, Computer Vision, mmDetection
+
+- **Start-up Competition using Forest Public Big Data** - Encouragement Prize
 <br> 산림공공·빅데이터 활용 창업 경진대회 - 장려상 
 <br> *Application for providing Customized Data for Forest Travel*
 <br> from 대한민국 산림청 (KOREA FOREST SERVICE) / Aug. 2022 
@@ -72,7 +78,7 @@ First Author / Leader
 
 - **KBSC, Kookmin Bank Software Development Contest 2021** - 1st place
 <br> 국민은행 소프트웨어 경진대회 2021 - 대상(1위)
-<br> *Educational Metabuses to Help Develop Environmental Awareness*
+<br> *Educational Metaverse to Help Develop Environmental Awareness*
 <br> from KB Kookmin Bank (KB국민은행 사피엔스 4.0) / Dec. 2021 
 <br> Team Leader, Lead Developer / Unity(C#), Django(Python3)
 
