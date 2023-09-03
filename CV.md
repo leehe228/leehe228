@@ -1,7 +1,7 @@
 <div align="center">
 
 # Curriculum Vitae
-Hoeun Lee (李鎬誾) <br> 28. Feb. 2001. <br>
+Hoeun Lee (이호은∙李鎬誾) <br> 28. Feb. 2001. <br>
 Dept. of Computer Science and Engineering, Konkuk University, Seoul, Korea <br>
 Distributed Management System Laboratory, Konkuk Univ., Undergraduated Student Intern
 
