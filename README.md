@@ -7,7 +7,7 @@
 
 **🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습(DRL)연구팀 학부연구생, 2021.03. ~ <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🛫 대한민국 공군 현역병 복무중 (Republic of Korea Air Force)** <br> 2022. 1. 10. ~ 2023. 10. 9.
+**🛫 대한민국 공군 병장 만기 전역 (Republic of Korea Air Force Sergeant, Honorable Discharge)** <br> 2022. 1. 10. ~ 2023. 10. 9.
 
 **🎪 Curriculum Vitae (Resume)** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
 
