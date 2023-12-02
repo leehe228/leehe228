@@ -36,6 +36,8 @@
 <br>
 
 ### 🏆 Awards
+**제 2회 2023 국방AI경진대회 (Military AI Competition, MAICON)** <br> 일반인 부문 후원기업상(4위) ∙ LeaderBoard Final Score 3위 <br> (대한민국 국방부, 과학기술정보통신부, 정보통신기획평가원, 한국공개소프트웨어협회, 한국IT서비스산업협회 주관/주최) <br> / DeepFake Video Detection <br> [Contest Info](https://maicon.kr)
+
 **제 5회 2023 공군 창의∙혁신 아이디어 공모 해커톤** <br> AI프로그램 부문 장려상(4위) <br> (대한민국공군, IBK 기업은행, KT, 대전창조경제혁신센터, 한국청년기업가정신재단 주관/주최) <br> / Image Classification, Image Instance Segmentation (Computer Vision on PyTorch) <br> [Contest Info](https://rokaf.airforce.mil.kr/sites/hackathon/index.do)
 
 **일조분석 기능과 머신러닝 기반 태양광발전량 예측 기술을 활용한 개별 가구용 태양광발전 손익계산 서비스** <br> 2023 LH 도시 디지털트윈 아이디어 공모전 참가상 <br> (LH 한국토지주택공사 주최) / 기획 및 설계 <br> [Contenst Info](http://www.lh-digital.co.kr/view.asp?idx=170&boardcode=notice&go=&field=&keyword=&page=)
