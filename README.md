@@ -26,7 +26,7 @@
 
 <br>
 
-### 📃 Papers
+### 📃 Published Papers
 **Multiagent Reinforcement Learning Based on** <br> **Fusion-Multiactor-Attention-Critic for Multiple-Unmanned-Aerial-Vehicle Navigation Control** <br> Sangwoo Jeon, **Hoeun Lee**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, and Dugki Min <br> MDPI Energies 2022, 15(19), 7426; (***SCIE***) (10 Oct 2022)<br> [Abstract](https://www.mdpi.com/1996-1073/15/19/7426), [MDPI Energies](https://www.mdpi.com/journal/energies)
 
 **Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min and Jae-Woo Lee  <br> Springer LNEE, volume 913 (***SCOPUS***) (30 Sep 2022), APISAT 2021 Conference Paper <br> [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
