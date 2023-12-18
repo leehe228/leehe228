@@ -1,5 +1,5 @@
 ### 🧑 I'am
-제 이름은 **이호은(HOEUN LEE)** 입니다. 저는 **iOS(macOS, visionOS) 개발자 및 AI 연구개발자**를 꿈꾸는 <br> 2001년생(만 22세) 대학 학부 휴학생(2024-1 복학 예정)입니다.
+제 이름은 **이호은(HOEUN LEE)** 입니다. 저는 **AI & SwiftUI 연구개발자**를 꿈꾸는 <br> 2001년생(만 22세) 대학 학부 휴학생(2024-1 복학 예정)입니다.
 
 <br>
 
@@ -36,6 +36,8 @@
 <br>
 
 ### 🏆 Awards
+**2023 구강이미지 합성데이터 헬스케어 AI 경진대회 (Dental Caries Composited Image Data Health Care AI Competition)** <br> 대상(1위) <br> (서울대학교치과병원 Seoul Nat'l Univ. Dental Hospital SNUDH 주최, 한국지능정보사회진흥원 NIA 후원) <br> / Dental Caries Composited Image Classification (충치 합성 이미지 데이터 분류) <br> [Contest Info](http://healthcare.gcontest.co.kr/template/m/14622)
+
 **제 2회 2023 국방AI경진대회 (Military AI Competition, MAICON)** <br> 일반인 부문 후원기업상(4위) ∙ LeaderBoard Final Score 3위 <br> (대한민국 국방부, 과학기술정보통신부, 정보통신기획평가원, 한국공개소프트웨어협회, 한국IT서비스산업협회 주관/주최) <br> / DeepFake Video Detection <br> [Contest Info](https://maicon.kr)
 
 **제 5회 2023 공군 창의∙혁신 아이디어 공모 해커톤** <br> AI프로그램 부문 장려상(4위) <br> (대한민국공군, IBK 기업은행, KT, 대전창조경제혁신센터, 한국청년기업가정신재단 주관/주최) <br> / Image Classification, Image Instance Segmentation (Computer Vision on PyTorch) <br> [Contest Info](https://rokaf.airforce.mil.kr/sites/hackathon/index.do)
