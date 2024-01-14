@@ -15,14 +15,20 @@
 
 <br>
 
-### 🥁 Studying On
-**Deep Reinforcement Learning and Environment**
+### 🥁 Studying On and Interested in
+**Autonomous Driving and Path Planning**
 
-**Mobile App Development & Server Backend Development**
+**Urban Aerial Mobility(UAM) and Unmanned Aerial Vehicle(UAV)**
 
-**AI/ML on Mobile Software Platform**
+**Robotics**
 
-**Software Engineering and DevOps**
+**Deep Reinforcement Learning and Environment Engineering**
+
+**Mobile Development (@SwiftUI) & Web Development (@Django)**
+
+**AI/ML on Mobile Software Platform (onDevice)**
+
+**Software Engineering and DevOps/MLOps**
 
 <br>
 
