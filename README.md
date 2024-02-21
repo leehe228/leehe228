@@ -16,12 +16,15 @@
 <br>
 
 ### 🥁 Studying On and Interested in
-- Autonomous Driving and Path Planning
-- Urban Aerial Mobility(UAM) and Unmanned Aerial Vehicle(UAV)
 - **Robotics**
-- **Deep Reinforcement Learning** and Environment Engineering
-- Mobile Development (@SwiftUI) & Web Development (@Django)
-- AI/ML on Mobile Software Platform (onDevice)
+- **Deep Reinforcement Learning**
+- Urban Aerial Mobility(UAM), Unmanned Aerial Vehicle(UAV) 
+- Advanced Air Traffic Control (ATC) Management System based DRL
+- Aerial Vehicle Software-In-The-Loop (SITL) and Digital Twin
+
+- **Mobile App Development (@SwiftUI)** & Web Development (@Django)
+- 3D Program Development (Unity, Apple VisionOS)
+- AI/ML on Mobile Software Platform (on Device)
 - Software Engineering and DevOps/MLOps
 
 <br>
