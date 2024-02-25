@@ -63,6 +63,12 @@
 
 <br>
 
+### 📱 Launched Services (App&Web)
+**펫스페이스(PETSPACE) iOS 2023** <br>
+우리 강아지 미용 어디서 할까? 펫스페이스와 함께라면 이런 걱정은 더 이상 끝! - 우리 동네 애견미용실 손쉽게 찾아보고 비교하기 <br> [App Store](https://apps.apple.com/kr/app/%ED%8E%AB%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4/id6469418725), [Landing Page](https://petspace.whitekiwi.link)
+
+<br>
+
 ### 🎨 Projects (정리중)
 **< Reinforcement Learning >** <br>
 **UAM Logistics Environment and Research** <br> 2021, PyTorch, Unity 3D(C#) <br> [Github Repo](https://github.com/dmslab-konkuk/LogisticsEnv)
