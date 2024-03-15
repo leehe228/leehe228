@@ -3,7 +3,7 @@
 
 <br>
 
-**🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 학사 2학년 수석 수료(completed 4th semester as top-ranked student) <br> 3학년 재학중 <br> 학점(GPA) 4.47/4.50 (전공 4.50), 2025-1학기 (조기)졸업예정, 2020.03. ~  <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
+**🏫 건국대학교(서울) 컴퓨터공학부 (Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 3학년 1학기 재학중 <br> 학점(GPA) 4.47/4.50 (전공 4.50), (2025.08. 졸업예정), 2020.03. ~  <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
 
 **🔬 건국대학교(서울) 분산시스템연구실 (DMS Laboratory in Konkuk Univ.)** <br> 심층강화학습(DRL)연구팀 학부연구생, 2021.03. ~ 2022.01. / 2023.12. ~ <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
