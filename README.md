@@ -65,19 +65,28 @@
 
 <br>
 
-### 📱 Launched Services (App&Web)
+### 📱 Applications
+**플레이쿠라운드(PLAYKUROUND) iOS 2023 (하반기 출시 예정)** <br>
+<img width="1000px" alt="Plku Banner" src="https://github.com/leehe228/leehe228/assets/37548919/b6d5e1d1-a0f9-467b-9870-a1a4457269c8">
+건국대학교를 배경으로 미니게임들을 즐길 수 있는 모바일 게임 어플리케이션입니다. 각종 이벤트를 통해 배지를 얻고 모험을 떠나 랭킹 1위에 도전하세요! <br>
+iOS 앱 개발
+<br>
+
 **유니페스(UNI-FEST) iOS 2023** <br>
+<img width="1000px" alt="Unifest App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/29e4283b-ea55-4fad-b55a-36195b1c8ebe">
 - 대학 축제 일정이 포함된 캘린더를 제공합니다
 - 축제에 방문하는 연예인이 누구인지 확인할 수 있습니다
 - 부스 위치를 지도로 확인할 수 있습니다
 - 부스 주의사항, 메뉴 등의 정보를 한 눈에 확인할 수 있습니다
 - 인기 부스 리스트를 제공합니다 <br>
+iOS 앱 개발 및 배포 <br>
 [App Store](https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%8E%98%EC%8A%A4/id6502256367) 
 
 <br>
 
 **펫스페이스(PETSPACE) iOS 2023** <br>
-우리 강아지 미용 어디서 할까? 펫스페이스와 함께라면 이런 걱정은 더 이상 끝! - 우리 동네 애견미용실 손쉽게 찾아보고 비교하기 <br> [App Store](https://apps.apple.com/kr/app/%ED%8E%AB%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4/id6469418725), [Landing Page](https://petspace.whitekiwi.link)
+<img width="1000px" alt="Petspace App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/13616301-c1b0-4f0b-a442-6d428be293b3">
+우리 강아지 미용 어디서 할까? 펫스페이스와 함께라면 이런 걱정은 더 이상 끝! - 우리 동네 애견미용실 손쉽게 찾아보고 비교하기 <br> UI/UX 설계 및 디자인, iOS 앱 개발 <br> [App Store](https://apps.apple.com/kr/app/%ED%8E%AB%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4/id6469418725), [Landing Page](https://petspace.whitekiwi.link)
 
 <br>
 
