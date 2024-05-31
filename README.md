@@ -65,6 +65,17 @@
 
 <br>
 
+### 🎖️ Scholarship
+**국가우수장학금(이공계)** <br> 한국장학재단(Korea Student Aid Foundation) <br> National Science & Technology Scholarship ∙ Academic Excellence (2024-2025 2년 전액 장학 ∙ Full-funded)
+
+**성적장학금 성조** <br> 건국대학교 컴퓨터공학부 <br> Academic Excellence Scholarship (2021-2학기 전액장학 ∙ Full-funded)
+
+**성적장학금 성조** <br> 건국대학교 컴퓨터공학부 <br> Academic Excellence Scholarship (2021-1학기 전액장학 ∙ Full-funded)
+
+**성적장학금 신조** <br> 건국대학교 컴퓨터공학부 <br> Academic Excellence Scholarship (2020-2학기 등록금 70% 장학 ∙ 70%-funded)
+
+<br>
+
 ### 📱 Applications
 **플레이쿠라운드(PLAYKUROUND) iOS 2023 (하반기 출시 예정)** <br>
 <img width="1000px" alt="Plku Banner" src="https://github.com/leehe228/leehe228/assets/37548919/b6d5e1d1-a0f9-467b-9870-a1a4457269c8">
