@@ -66,7 +66,7 @@
 <br>
 
 ### 🎖️ Scholarship
-**국가우수장학금(이공계)** <br> 한국장학재단(Korea Student Aid Foundation) <br> National Science & Technology Scholarship ∙ Academic Excellence (2024-2025 2년 전액 장학 ∙ Full-funded)
+**국가우수장학금(이공계)** <br> 한국장학재단(Korea Student Aid Foundation) <br> National Science & Technology Scholarship ∙ Academic Excellence (2024-2025 2년 전액 장학 ∙ Full-funded for 2-year)
 
 **성적장학금 성조** <br> 건국대학교 컴퓨터공학부 <br> Academic Excellence Scholarship (2021-2학기 전액장학 ∙ Full-funded)
 
