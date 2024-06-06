@@ -9,7 +9,7 @@
 
 **🛫 대한민국 공군 병장 만기 전역 (Republic of Korea Air Force Sergeant, Honorable Discharge)** <br> 2022. 1. ~ 2023. 10.
 
-**🎪 Curriculum Vitae (Resume)** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV.md)
+**🎪 Curriculum Vitae (Resume)** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf)
 
 **🎓 충남삼성고등학교 / Chungnam Samsung Aacademy (High School)** <br> IT디플로마&Honor디플로마 (2020.02. 졸업) <br> [homepage](https://cnsa.hs.kr/hpw) , [CNSA IT homepage](http://it.cnsa.hs.kr/)
 - IT디플로마 IT편집부장 (2018)
