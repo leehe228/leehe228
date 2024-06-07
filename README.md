@@ -78,14 +78,14 @@
 
 ### 📱 Applications
 **플레이쿠라운드(PLAYKUROUND) iOS 2023 (하반기 출시 예정)** <br>
-<img width="1000px" alt="Plku Banner" src="https://github.com/leehe228/leehe228/assets/37548919/b6d5e1d1-a0f9-467b-9870-a1a4457269c8">
+<img width="0px" alt="Plku Banner" src="https://github.com/leehe228/leehe228/assets/37548919/b6d5e1d1-a0f9-467b-9870-a1a4457269c8">
 건국대학교를 배경으로 미니게임들을 즐길 수 있는 모바일 게임 어플리케이션입니다. 각종 이벤트를 통해 배지를 얻고 모험을 떠나 랭킹 1위에 도전하세요! <br>
 [건국대학교 공식블로그](https://blog.naver.com/dreamkonkuk/223448999922), [건국대학교 공식 인스타그램](https://www.instagram.com/p/C7DkcuaLvOm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 <br>
 
 **유니페스(UNI-FEST) iOS 2023** <br>
-<img width="1000px" alt="Unifest App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/29e4283b-ea55-4fad-b55a-36195b1c8ebe">
+<img width="0" alt="Unifest App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/29e4283b-ea55-4fad-b55a-36195b1c8ebe">
 - 대학 축제 일정이 포함된 캘린더를 제공합니다
 - 축제에 방문하는 연예인이 누구인지 확인할 수 있습니다
 - 부스 위치를 지도로 확인할 수 있습니다
@@ -96,7 +96,7 @@
 <br>
 
 **펫스페이스(PETSPACE) iOS 2023** <br>
-<img width="1000px" alt="Petspace App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/13616301-c1b0-4f0b-a442-6d428be293b3">
+<img width="0" alt="Petspace App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/13616301-c1b0-4f0b-a442-6d428be293b3">
 우리 강아지 미용 어디서 할까? 펫스페이스와 함께라면 이런 걱정은 더 이상 끝! - 우리 동네 애견미용실 손쉽게 찾아보고 비교하기 <br>
 [App Store](https://apps.apple.com/kr/app/%ED%8E%AB%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4/id6469418725), [Landing Page](https://petspace.whitekiwi.link)
 
@@ -132,7 +132,8 @@
 <br>
 
 ### 💻 My Websites
-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228)
+- [![Solved.ac프로필 (본계)](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/profile/leehe228)
+- [![Solved.ac프로필 (부계)](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoeunlee228)](https://solved.ac/profile/hoeunlee228)
 - [Baekjoon 프로필](https://www.acmicpc.net/user/leehe228)
 - [포트폴리오 블로그 (Tistory)](https://deepdeepit.tistory.com/)
 - [알고리즘 공부 블로그 (Velog)](https://velog.io/@leehe228)
@@ -148,6 +149,8 @@
 <div align="center">
 
 ![leehe228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leehe228)
+
+![leehe228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoeunlee228)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehe228%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
