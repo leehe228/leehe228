@@ -14,6 +14,12 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 혹시, 링크드인을 하고 계시다면 편하게 1촌 신청을 걸어주시면 감사드리겠습니다. → [링크드인 프로필](www.linkedin.com/in/leehe228)
 <br>
 
+관련 웹페이지 리스트입니다.
+1. [Google Scholar](https://scholar.google.com/citations?user=8ILu7yEAAAAJ&hl=ko&authuser=1)
+2. [Tistory Blog](https://deepdeepit.tistory.com)
+3. [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/leehe228)
+
+
 ✉️ Contact me → leehe228@konkuk.ac.kr
 <br>
 
