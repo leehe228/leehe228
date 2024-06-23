@@ -4,41 +4,43 @@
 안녕하세요! 저는 **AI 연구개발자**를 꿈꾸는 **이호은(HOEUN LEE)** 입니다.
 <br>
 
-**🏫 건국대학교(서울) 컴퓨터공학부 <br>
-(Konkuk Univ. Dept. of CSE., Seoul, Korea)** <br> 3학년 1학기 재학중 <br> 학점(GPA) 4.47/4.50 (전공 4.50), (2025.08. 졸업예정), 2020.03. ~  <br> [homepage](http://cse.konkuk.ac.kr/main.do) , [Repository](https://github.com/leehe228/Konkuk-CSE) 
+**🏫 건국대학교(서울) 컴퓨터공학부** <br>
+Konkuk Univ. Seoul, Dept. of Computer Science and Engineering <br> 
+3학년 1학기 재학중 <br> 학점(GPA) 4.47/4.50 (전공 4.50), 2020.03. ~  2025. 08.(조기졸업예정)
 
-**🔬 건국대학교 학부연구생** <br> 분산시스템연구실 (DMS Lab.) 심층강화학습팀(DRL Team), 2021.03. ~ 2024.06. <br> [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
+**🔬 서울대학교 전기∙정보공학부 학부연구인턴** <br>
+Seoul National Univ. Dept. of Electrical and Computer Engineering <br>
+2024.06. ~ 
 
-**🛫 대한민국 공군 병장 만기 전역 (Republic of Korea Air Force Sergeant, Honorable Discharge)** <br> 2022. 1. ~ 2023. 10.
 
-**🎪 Curriculum Vitae (Resume)** <br> [Hoeun Lee's CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf)
+**🔬 건국대학교 학부연구생** <br> 
+분산시스템연구실 (DMS Lab.) 심층강화학습팀(DRL Team), 2021.03. ~ 2024.06. <br> 
+[homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
-**🎓 충남삼성고등학교 / Chungnam Samsung Aacademy (High School)** <br> IT디플로마&Honor디플로마 (2020.02. 졸업) <br> [homepage](https://cnsa.hs.kr/hpw) , [CNSA IT homepage](http://it.cnsa.hs.kr/)
-- IT디플로마 IT편집부장 (2018)
-- IT∙공학디플로마 융합동아리 e-Labs 초기창설단 대표 (2018)
+**🛫 대한민국 공군 병장 만기 전역** <br>
+Republic of Korea Air Force Sergeant, Honorable Discharge) <br> 
+2022. 1. ~ 2023. 10.
 
-<br>
-
-### 🥁 Studying On and Interested in
-- **Robotics**
-- **Deep Reinforcement Learning**
-- Urban Aerial Mobility(UAM), Unmanned Aerial Vehicle(UAV) 
-- Advanced Air Traffic Control (ATC) Management System based DRL
-- Aerial Vehicle Software-In-The-Loop (SITL) and Digital Twin
-
-- **Mobile App Development (@SwiftUI)** & Web Development (@Django)
-- 3D Program Development (Unity, Apple VisionOS)
-- AI/ML on Mobile Software Platform (on Device)
-- Software Engineering and DevOps/MLOps
+**🎓 충남삼성고등학교** <br>
+Chungnam Samsung Aacademy High School <br> 
+IT Honor디플로마, 2017.03. ~ 2020.02. <br> 
+[homepage](https://cnsa.hs.kr/hpw) , [CNSA IT homepage](http://it.cnsa.hs.kr/)
 
 <br>
 
 ### 📃 Published Papers
-**Multiagent Reinforcement Learning Based on** <br> **Fusion-Multiactor-Attention-Critic for Multiple-Unmanned-Aerial-Vehicle Navigation Control** <br> Sangwoo Jeon, **Hoeun Lee**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho, and Dugki Min <br> MDPI Energies 2022, 15(19), 7426; (***SCIE***) (10 Oct 2022)<br> [Abstract](https://www.mdpi.com/1996-1073/15/19/7426), [MDPI Energies](https://www.mdpi.com/journal/energies)
+**Multiagent Reinforcement Learning Based on <br> Fusion-Multiactor-Attention-Critic for Multiple-Unmanned-Aerial-Vehicle Navigation Control** <br>
+S Jeon, **Hoeun Lee**, VK Kaliappan, TA Nguyen, H Jo, H Cho, D Min (October 2022), MDPI Energies 15 (19), 7426 <br>
+["MDPI Energies"](https://www.mdpi.com/journal/energies) , ["Github Repo"](https://github.com/leehe228/LogisticsEnv)
 
-**Multi-agent Reinforcement Learning-Based UAS Control for Logistics Environments** <br> Hyungeun Jo, **Hoeun Lee**, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Dugki Min and Jae-Woo Lee  <br> Springer LNEE, volume 913 (***SCOPUS***) (30 Sep 2022), APISAT 2021 Conference Paper <br> [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71), [APISAT 2021 Conference](https://apisat2021.org/) 
+**Multi-Agent Reinforcement Learning- based UAS Control for Logistics Environments** <br>
+H Jo, **Hoeun Lee**, S Jeon, VK Kaliappan, TA Nguyen, D Min, JW Lee (September 2021), <br>
+Asia-Pacific International Symposium on Aerospace Technology, 963-972 <br>
+["APISAT 2021 Conference"](https://apisat2021.org/)
 
-**모형 위성을 통한 비행체 식별 및 이동경로 분석에 관한 연구** <br> **(Aircraft Identification and Route Tracking using a Model Satellite)** <br> **이호은**, 이민형, 양승은, 김용민 <br> 한국항공우주학회 (Journal of The Korean Society for Aeronautical & Space Sciences) (Nov 2018) <br> [Abstract](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07619770), [한국항공우주학회](http://ksas.or.kr/)
+**Aircraft Identification and Route Tracking using a Model Satellite** <br>
+S Yang, M Lee, **Hoeun Lee**, Y Kim (September 2018), 2018 KSAS Fall Conference, 431-434 <br>
+["Abstract"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07619770) , ["한국항공우주학회(KSAS)"](http://ksas.or.kr/)
 
 <br>
 
@@ -88,11 +90,6 @@
 
 **유니페스(UNI-FEST) iOS 2023** <br>
 <img width="0" alt="Unifest App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/29e4283b-ea55-4fad-b55a-36195b1c8ebe">
-- 대학 축제 일정이 포함된 캘린더를 제공합니다
-- 축제에 방문하는 연예인이 누구인지 확인할 수 있습니다
-- 부스 위치를 지도로 확인할 수 있습니다
-- 부스 주의사항, 메뉴 등의 정보를 한 눈에 확인할 수 있습니다
-- 인기 부스 리스트를 제공합니다 <br>
 [App Store](https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%8E%98%EC%8A%A4/id6502256367) 
 
 <br>
@@ -101,35 +98,6 @@
 <img width="0" alt="Petspace App Banner" src="https://github.com/leehe228/leehe228/assets/37548919/13616301-c1b0-4f0b-a442-6d428be293b3">
 우리 강아지 미용 어디서 할까? 펫스페이스와 함께라면 이런 걱정은 더 이상 끝! - 우리 동네 애견미용실 손쉽게 찾아보고 비교하기 <br>
 [App Store](https://apps.apple.com/kr/app/%ED%8E%AB%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4/id6469418725), [Landing Page](https://petspace.whitekiwi.link)
-
-<br>
-
-### 🎨 Projects (정리중)
-**< Reinforcement Learning >** <br>
-**UAM Logistics Environment and Research** <br> 2021, PyTorch, Unity 3D(C#) <br> [Github Repo](https://github.com/dmslab-konkuk/LogisticsEnv)
-
-**Rover Tower Environment** <br> 2021, Tensorflow, Unity 3D(C#) <br> [Github Repo](https://github.com/dmslab-konkuk/RoverTowerEnv)
-
-**Connetc6 육목 강화학습 + MCTS 인공지능 개발** <br> 2021, Tensorflow <br> [Github Repo](https://github.com/leehe228/Connect6RL)
-
-**< Machine Learning Projects >** <br>
-**Object Detection in Aerial Images and Fast R-CNN Training, Testing** <br> 2021, DOTA Dataset, Fast R-CNN(Keras) <br> [Post](https://deepdeepit.tistory.com/126)
-
-**자율주행차 유스챌린지 프로젝트** <br> 2020, Arduino(ObjectC) <br> [Post](https://deepdeepit.tistory.com/103)
-
-**< Applications >** <br>
-**사용자 맞춤형 온라인 전시회 플랫폼** <br> 2020, HTML, CSS, JS, Django, Android Application(JAVA) <br> [Post](https://deepdeepit.tistory.com/104) , [Github Repo](https://github.com/leehe228/Django_Palette)
-
-**인공지능을 활용한 사용자 질병 예측 및 의료 진단 도우미 앱** <br> 2020, Android Application(JAVA) <br> [Post](https://deepdeepit.tistory.com/101)
-
-**시각장애인들을 위한 들리는 미술관 플랫폼 서비스** <br> 2020, Android Application(JAVA)
-
-**< VR and Metaverse >** <br>
-**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 에코버스** <br> 2021, Unity3D(C#), Django <br> [Github Repo](https://github.com/leehe228/Ecoverse)
-
-**가상현실과 머신러닝을 이용한 긴장감 해소 소프트웨어** <br> 2019, Unity3D(C#), Arduino(ObjectC), Django
-
-**가상현실과 머신러닝을 이용한 발표력 향상 소프트웨어** <br> 2018, Unity3D(C#), Arduino(ObjectC), Django <br> [Post](https://deepdeepit.tistory.com/50)
 
 <br>
 
