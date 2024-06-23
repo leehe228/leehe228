@@ -15,9 +15,9 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 <br>
 
 **관련 웹페이지 리스트입니다.**
-- <a href="https://scholar.google.com/citations?user=8ILu7yEAAAAJ&hl=ko&authuser=1" target="_blank"><img src="https://img.shields.io/badge/GoogleScholar-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
+- <a href="https://scholar.google.com/citations?user=8ILu7yEAAAAJ&hl=ko&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
 
-- <a href="https://deepdeepit.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TistoryBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+- <a href="https://deepdeepit.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 - [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/leehe228)
 <br>
@@ -38,11 +38,13 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MLAgents-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML_Agents-000000?style=flat-square&logo=Unity&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/IsaacSim-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square&logo=OpenAIGym&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GPT_API-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
 </p>
 <br>
 
