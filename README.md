@@ -29,6 +29,8 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
 </p>
 <br>
 
@@ -45,6 +47,8 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square&logo=OpenAIGym&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GPT_API-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 </p>
 <br>
 
@@ -59,6 +63,18 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 <img src="https://img.shields.io/badge/SwiftUI-04CBF7?style=flat-square&logo=Swift&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
+</p>
+<br>
+
+**etc**
+<p>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-5551FF?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 <br>
 
