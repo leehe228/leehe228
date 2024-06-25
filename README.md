@@ -85,3 +85,12 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehe228%2Fhitcounter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/leehe228"
+  width="600"
+  height="300"
+/>
+</a>
