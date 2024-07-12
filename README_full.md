@@ -66,7 +66,7 @@ S Yang, M Lee, **Hoeun Lee**, Y Kim (September 2018), 2018 KSAS Fall Conference,
 
 **모델 위성과 도플러 효과를 이용한 머신러닝 이미지 프로세싱 기반 비행체 추적 성능에 관한 연구** <br> 2018 캔위성경연대회 고등부 우수상 2위 <br> (KAIST, SaTReC, 과학기술정보통신부, 한국항공우주연구원 등 주최) <br> [Post](https://deepdeepit.tistory.com/45) , [Contest Info](http://cansat.kaist.ac.kr/)
 
-**Dean's List** <br> 2020-2학기, 2021-1학기, 2021-2학기 <br> 건국대학교 컴퓨터공학부 Dean's List (성적우수상) 
+**Dean's List** <br> 2020-2학기, 2021-1/2학기, 2024-1학기 <br> 건국대학교 컴퓨터공학부 Dean's List (성적우수상) 
 
 <br>
 
