@@ -6,15 +6,16 @@
 
 **🏫 건국대학교(서울) 컴퓨터공학부** <br>
 Konkuk Univ. Seoul, Dept. of Computer Science and Engineering <br> 
-3학년 1학기 재학중 <br> 학점(GPA) 4.47/4.50 (전공 4.50), 2020.03. ~  2025. 08.(조기졸업예정)
+3학년 1학기 재학중 <br> 학점(GPA) 4.48/4.50 (전공 4.50), 2020.03. ~  2025. 08.(조기졸업)
+<br> 컴퓨터공학부 5학기 수석 수료 (1/233)
 
 **🔬 서울대학교 전기∙정보공학부 학부연구인턴** <br>
 Seoul National Univ. Dept. of Electrical and Computer Engineering <br>
-2024.06. ~ 
+2024.07. ~ 
 
 
 **🔬 건국대학교 학부연구생** <br> 
-분산시스템연구실 (DMS Lab.) 심층강화학습팀(DRL Team), 2021.03. ~ 2024.06. <br> 
+분산시스템연구실 (DMS Lab.) 심층강화학습팀(DRL Team), 2021.03. ~ 2024.05. <br> 
 [homepage](https://dmslab-konkuk.github.io/) , [Github](https://github.com/dmslab-konkuk)
 
 **🛫 대한민국 공군 병장 만기 전역** <br>
