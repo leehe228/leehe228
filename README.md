@@ -61,7 +61,7 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
 </p>
 <br>
 
-**Develepment**
+**Development**
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
