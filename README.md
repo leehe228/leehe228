@@ -11,8 +11,7 @@
 
 <br>
 
-🔍 아직은 연구 분야를 폭넓게 탐색하고 있으며, 관심 있는 연구 분야는 <br>
-Generative AI, Multi-Modal AI, Large Model, On-Device AI, AI for System, Deep Reinforcement Learning 입니다.
+🔍 현재 Large Language Model을 기반으로 AI for Systems 연구를 하고 있습니다.
 
 <br>
 
