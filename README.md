@@ -15,7 +15,7 @@
 
 <br>
 
-자세한 이력서와 성적은 [CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf) / [Transcript](https://github.com/leehe228/leehe228/blob/main/transcript_en_HoeunLee.pdf)에서 확인하실 수 있습니다. <br>
+자세한 이력서와 성적은 [CV](https://github.com/user-attachments/files/16973173/CV_HoeunLee_240724.pdf) / [Transcript](https://github.com/leehe228/leehe228/blob/main/transcript_en_HoeunLee.pdf)에서 확인하실 수 있습니다. <br>
 CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/leehe228/leehe228/blob/main/README_full.md)입니다. <br>
 혹시, 링크드인을 하고 계시다면 편하게 1촌 신청을 걸어주시면 감사드리겠습니다. → <a href="https://www.linkedin.com/in/leehe228/" target="_blank"><img src="https://img.shields.io/badge/HoeunLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
