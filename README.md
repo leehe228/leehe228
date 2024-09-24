@@ -101,4 +101,5 @@ CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/le
   width="600"
   height="300"
 />
-</a>
+
+[![Hoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehe228)](https://github.com/leehe228/github-readme-stats)
