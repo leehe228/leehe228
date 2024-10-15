@@ -6,22 +6,22 @@
 🏫 **충남삼성고등학교 IT디플로마**를 졸업하고 (2017/3 ~ 2020/2), <br>
 🏢 **건국대학교 컴퓨터공학부** 20학번으로 입학하여, 3학년에 재학중이며 (2020/3 ~), <br>
 🎓 2025년 8월 졸업 후, **AI(인공지능) 대학원 진학**을 목표로 공부중입니다. <br>
-🔬 내년 가을학기 석박통합과정 입학을 목표로 2024년 6월부터 **서울대학교 전기∙정보공학부 AIDAS LAB 학부연구인턴**으로 공부하고 있습니다. <br>
+🔬 내년 가을학기 석박통합과정 입학을 목표로 **서울대학교 전기∙정보공학부 [AIDAS LAB](https://aidas.snu.ac.kr) 학부연구인턴**으로 공부하고 있습니다. <br>
 🌟 AI 기술을 기반으로 사회 구성원의 삶을 개선하고, 모두가 공평하게 더 나은 삶을 누릴 수 있는 세상을 만드는 것이 저의 꿈입니다.
 
 <br>
 
-🔍 현재 Large Language Model을 기반으로 AI for Systems 연구를 하고 있습니다.
+🔍 현재 Large Language Model을 기반으로 AI for Systems / LLM Alignment / Reinforcement Learning 공부와 연구를 하고 있습니다.
 
 <br>
 
-자세한 이력서와 성적은 [CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf) / [Transcript](https://github.com/leehe228/leehe228/blob/main/transcript_en_HoeunLee.pdf)에서 확인하실 수 있습니다. <br>
-CV보다 제 이력을 보기 좋게 정리한 [페이지](https://github.com/leehe228/leehe228/blob/main/README_full.md)입니다. <br>
-혹시, 링크드인을 하고 계시다면 편하게 1촌 신청을 걸어주시면 감사드리겠습니다. → <a href="https://www.linkedin.com/in/leehe228/" target="_blank"><img src="https://img.shields.io/badge/HoeunLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+저의 [CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf) 입니다. <br>
 
 <br>
 
 **관련 웹페이지 리스트입니다.**
+- <a href="https://www.linkedin.com/in/leehe228/" target="_blank"><img src="https://img.shields.io/badge/HoeunLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
 - <a href="https://scholar.google.com/citations?user=8ILu7yEAAAAJ&hl=ko&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
 
 - <a href="https://deepdeepit.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
