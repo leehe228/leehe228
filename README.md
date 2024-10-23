@@ -15,7 +15,7 @@
 
 <br>
 
-저의 [CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf) 입니다. <br>
+📄 저의 [CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf) 입니다. <br>
 
 <br>
 
