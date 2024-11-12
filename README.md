@@ -38,7 +38,17 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
   height="240"
 />
 
-[![Hoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehe228)](https://github.com/leehe228/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&theme=dark&locale=en"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&locale=en"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&locale=en" />
+</picture>
 
 ![leehe228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leehe228)
 
