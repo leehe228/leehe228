@@ -35,12 +35,12 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 <img
   src="https://render.gitanimals.org/farms/leehe228"
   width="600"
-  height="300"
+  height="240"
 />
 
-<br>
-
 [![Hoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehe228)](https://github.com/leehe228/github-readme-stats)
+
+![leehe228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leehe228)
 
 <div>
 <a href="https://hits.seeyoufarm.com">
