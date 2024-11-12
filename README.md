@@ -1,42 +1,35 @@
-😀 안녕하세요! 반갑습니다 제 깃허브를 방문해주셔서 감사합니다. <br>
-저는 **AI Researcher**를 꿈꾸며 AI 대학원 진학을 목표로 공부중인 **이호은 (Hoeun Lee)** 입니다.
+😀 Hello, thank you for visiting my GitHub. <br>
+I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 
 <br>
 
-🏫 **충남삼성고등학교 IT디플로마**를 졸업하고 (2017/3 ~ 2020/2), <br>
-🏢 **건국대학교 컴퓨터공학부** 20학번으로 입학하여, 3학년에 재학중이며 (2020/3 ~), <br>
-🎓 2025년 8월 졸업 후, **대학원 진학**을 목표로 공부중입니다. <br>
-🔬 내년 가을학기 석박통합과정 입학을 목표로 **서울대학교 전기∙정보공학부 [AIDAS LAB](https://aidas.snu.ac.kr) 인턴**으로 연구와 공부하고 있습니다. <br>
+🏫 **[Chungnam Samsung Academy High School (CNSA)](https://www.cnsa.hs.kr)**, Mar 2017 - Feb 2020 <br>
+🏢 **[Dept. of Computer Science and Engineering, Konkuk University, Seoul](https://www.konkuk.ac.kr/konkuk/index.do)**, Mar 2020 - present<br>
+🎓 Expected to early graduate in Aug 2025 and then attend graduate school <br>
+🔬 **[AIDAS LAB](https://aidas.snu.ac.kr), Undergraduate Intern, Seoul National University**, July 2024 - present <br>
 
 <br>
 
-🔍 현재 Large Language Model을 기반으로 AI for Systems / LLM Alignment / Reinforcement Learning 공부와 연구를 하고 있습니다.
+🔍 I am currently studying and researching AI for Systems / LM Alignment / VLA Model for Robotics / Reinforcement Learning based on Large Language Models (LLMs).
 
 <br>
 
-📄 저의 [CV](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf) 입니다. <br>
+📄 Here's my [Curriculum Vitae (CV)](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf). <br>
 
 <br>
 
-**관련 웹페이지 리스트입니다.**
-- <a href="https://www.linkedin.com/in/leehe228/" target="_blank"><img src="https://img.shields.io/badge/HoeunLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+🌏 Here's my Websites 
+<br>
 
-- <a href="https://scholar.google.com/citations?user=8ILu7yEAAAAJ&hl=ko&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
-
-- <a href="https://deepdeepit.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/leehe228)
+<a href="https://www.linkedin.com/in/leehe228/" target="_blank"><img src="https://img.shields.io/badge/HoeunLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> <a href="https://scholar.google.com/citations?user=8ILu7yEAAAAJ&hl=ko&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://deepdeepit.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/leehe228)
 
 <br>
 
-✉️ Contact me → leehe228@konkuk.ac.kr 
+✉️ Contact me → leehe228@konkuk.ac.kr
+<br>
 <br>
 
-<div>
-<a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehe228%2Fhitcounter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-<br>
+<div align="center">
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -45,4 +38,14 @@
   height="300"
 />
 
+<br>
+
 [![Hoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehe228)](https://github.com/leehe228/github-readme-stats)
+
+<div>
+<a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehe228%2Fhitcounter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+<br>
+
+</div>
