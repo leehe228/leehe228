@@ -14,7 +14,8 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 
 <br>
 
-🔍 I am currently studying and researching AI for Systems / LM Alignment / VLA Model for Robotics / Reinforcement Learning based on Large Language Models (LLMs).
+🎯 I am currently focusing on AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning <br>
+🔍 My research interests are LLM / LM Alignment / LLM Lightweight / VLA Model for Robotics / HW-friendly AI systems 
 
 <br>
 
