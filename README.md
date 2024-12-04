@@ -35,13 +35,14 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 <br>
 
 <div align="center">
-
+  
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/leehe228"
   width="600"
-  height="240"
+  height="300"
 />
+</a>
 
 <picture>
   <source
