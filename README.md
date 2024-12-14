@@ -6,7 +6,7 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 🏫 Graduated **[Chungnam Samsung Academy High School (CNSA)](https://www.cnsa.hs.kr)**, <br> 
 &emsp;&ensp;&nbsp;(*Mar 2017 - Feb 2020*) <br>
 
-🏢 Top-Ranked Student at **Dept. of Computer Science and Engineering, [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**, Seoul**, <br>
+🏢 Top-Ranked Student at **Dept. of Computer Science and Engineering, [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**, Seoul, <br>
 &emsp;&ensp;&nbsp;(*Mar 2020 - expected Aug 2025*) <br>
 
 🔬 Undergraduate Intern at **[AIDAS LAB](https://aidas.snu.ac.kr), [Seoul National University](https://www.snu.ac.kr/index.html)**, <br>
