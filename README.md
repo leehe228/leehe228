@@ -19,7 +19,8 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 
 <br>
 
-📄 Here's my **[Curriculum Vitae (CV)](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf)**. <br>
+🔖 Here's my **[Resume Web Site](https://sites.google.com/view/hoeunlee)** <br>
+📄 Here's my **[Curriculum Vitae (CV) PDF](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf)**. <br>
 
 <br>
 
