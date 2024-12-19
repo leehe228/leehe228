@@ -3,6 +3,10 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 
 <br>
 
+⭐️ You can learn more about me at **[Profile Website](https://sites.google.com/view/hoeunlee)** <br>
+
+<br>
+
 🏫 Graduated **[Chungnam Samsung Academy High School (CNSA)](https://www.cnsa.hs.kr)**. <br> 
 &emsp;&ensp;&nbsp;(*Mar 2017 - Feb 2020*) <br>
 
@@ -16,11 +20,6 @@ I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
 
 🎯 I am currently focusing on AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning <br>
 🔍 My research interests are LLM / LM Alignment / LLM Lightweight / VLA Model for Robotics / HW-friendly AI systems 
-
-<br>
-
-🔖 Here's my **[Resume Web Site](https://sites.google.com/view/hoeunlee)** <br>
-📄 Here's my **[Curriculum Vitae (CV) PDF](https://github.com/leehe228/leehe228/blob/main/CV_HoeunLee.pdf)**. <br>
 
 <br>
 
