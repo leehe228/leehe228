@@ -3,31 +3,34 @@
 
 ### 🏫 Education
 **B.S. Dept. of Computer Science and Engineering, Konkuk University, Seoul** <br>
-&emsp;&ensp;&nbsp;(*Mar 2020 - present*) <br>
-&emsp;&ensp;&nbsp;- Expected to early graduate in *Aug 2025* <br>
+(*Mar 2020 - present*) <br>
+∙ Expected to early graduate in *Aug 2025* <br>
 
 
 **Chungnam Samsung Academy High School (CNSA)** <br> 
-&emsp;&ensp;&nbsp;(*Mar 2017 - Feb 2020*) <br>
+(*Mar 2017 - Feb 2020*) <br>
 <br>
 
 ### 🔬 Experience 
 **Undergraduate Intern, [AIDAS LAB](https://aidas.snu.ac.kr), Seoul National University** <br>
-&emsp;&ensp;&nbsp;(*Jul 2024 - present*) <br>
-&emsp;&ensp;&nbsp;- Dept. of Electrical and Computer Engineering <br>
-&emsp;&ensp;&nbsp;- AI4DB, Query Optimization, VectorDB, Robotics, LM Alignment<br>
+(*Jul 2024 - present*) <br>
+∙ Dept. of Electrical and Computer Engineering <br>
+∙ AI4DB, Query Optimization, VectorDB, Robotics, LM Alignment<br>
 
 **Sergeant, Republic of Korea Air Force (ROKAF)** <br>
-&emsp;&ensp;&nbsp;(*Jan 2022 - Oct 2023*) <br>
-&emsp;&ensp;&nbsp;- Duty of National Defence (Honorable Discharged) <br>
+(*Jan 2022 - Oct 2023*) <br>
+∙ Duty of National Defence (Honorable Discharged) <br>
 
 **Undergraduate Intern, [DMS LAB](https://dmslab-konkuk.github.io), Konkuk University** <br>
-&emsp;&ensp;&nbsp;(*Mar 2021 - May 2024*) <br>
-&emsp;&ensp;&nbsp;- SLAM, UAM Autonomous Flight, Multi-Agent DRL<br>
+(*Mar 2021 - May 2024*) <br>
+∙ SLAM, UAM Autonomous Flight, Multi-Agent DRL<br>
 <br>
 
 ### 🎯 Research Focus
 AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning / Robotics via VLA Model
+<br> <br>
+
+⭐️ To learn more about me, including awards, scholarships, publications, please visit my [CV](https://sites.google.com/view/hoeunlee)
 <br> <br>
 
 ### 🌏 Websites 
@@ -36,7 +39,6 @@ AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning
 
 ### ✉️ Contact me  
 - hoeunlee228@gmail.com
-<br>
 <br>
 
 ### 🔖 Appendix
