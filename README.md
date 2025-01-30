@@ -1,36 +1,41 @@
-😀 Hello, thank you for visiting my GitHub. <br>
-I'm **Hoeun Lee**, studying and researching to be an **AI Researcher**.
+### 📄 My Portfolio (CV)
+- [https://sites.google.com/view/hoeunlee](https://sites.google.com/view/hoeunlee) <br> <br>
 
-<br>
+### 🏫 Education
+**B.S. Dept. of Computer Science and Engineering, Konkuk University, Seoul** <br>
+&emsp;&ensp;&nbsp;(*Mar 2020 - present*) <br>
+&emsp;&ensp;&nbsp;- Expected to early graduate in *Aug 2025* <br>
 
-⭐️ You can learn more about me at **[Profile Website](https://sites.google.com/view/hoeunlee)** <br>
 
-<br>
-
-🏫 Graduated **[Chungnam Samsung Academy High School (CNSA)](https://www.cnsa.hs.kr)**. <br> 
+**Chungnam Samsung Academy High School (CNSA)** <br> 
 &emsp;&ensp;&nbsp;(*Mar 2017 - Feb 2020*) <br>
-
-🏢 Top-Ranked Student at **Dept. of Computer Science and Engineering, [Konkuk University](https://www.konkuk.ac.kr/konkuk/index.do)**, Seoul. <br>
-&emsp;&ensp;&nbsp;(*Mar 2020 - expected Aug 2025*) <br>
-
-🔬 Undergraduate Intern at **[AIDAS LAB](https://aidas.snu.ac.kr), [Seoul National University](https://www.snu.ac.kr/index.html)**. <br>
-&emsp;&ensp;&nbsp;(*July 2024 - present*) <br>
-
 <br>
 
-🎯 I am currently focusing on AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning <br>
-🔍 My research interests are LLM / LM Alignment / LLM Lightweight / VLA Model for Robotics / HW-friendly AI systems 
+### 🔬 Experience 
+**Undergraduate Intern, [AIDAS LAB](https://aidas.snu.ac.kr), Seoul National University** <br>
+&emsp;&ensp;&nbsp;(*Jul 2024 - present*) <br>
+&emsp;&ensp;&nbsp;- Dept. of Electrical and Computer Engineering <br>
+&emsp;&ensp;&nbsp;- AI4DB, Query Optimization, VectorDB, Robotics, LM Alignment<br>
 
+**Sergeant, Republic of Korea Air Force (ROKAF)** <br>
+&emsp;&ensp;&nbsp;(*Jan 2022 - Oct 2023*) <br>
+&emsp;&ensp;&nbsp;- Duty of National Defence (Honorable Discharged) <br>
+
+**Undergraduate Intern, [DMS LAB](https://dmslab-konkuk.github.io), Konkuk University** <br>
+&emsp;&ensp;&nbsp;(*Mar 2021 - May 2024*) <br>
+&emsp;&ensp;&nbsp;- SLAM, UAM Autonomous Flight, Multi-Agent DRL<br>
 <br>
 
-🌏 Here's my Websites 
-<br>
+### 🎯 Research Focus
+AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning / Robotics via VLA Model
+<br> <br>
 
+### 🌏 Websites 
 <a href="https://www.linkedin.com/in/leehe228/" target="_blank"><img src="https://img.shields.io/badge/HoeunLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> <a href="https://scholar.google.com/citations?user=8ILu7yEAAAAJ&hl=ko&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://deepdeepit.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehe228)](https://solved.ac/leehe228)
+<br> <br>
 
-<br>
-
-✉️ Contact me → leehe228@konkuk.ac.kr or hoeunlee228@gmail.com
+### ✉️ Contact me  
+- hoeunlee228@gmail.com
 <br>
 <br>
 
