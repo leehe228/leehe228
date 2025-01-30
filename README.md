@@ -39,15 +39,8 @@ AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning
 <br>
 <br>
 
-<div align="center">
-  
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/leehe228"
-  width="600"
-  height="300"
-/>
-</a>
+### 🔖 Appendix
+**Github Stats** <br>
 
 <picture>
   <source
@@ -60,8 +53,25 @@ AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning
   />
   <img src="https://github-readme-stats.vercel.app/api?username=leehe228&show_icons=true&locale=en" />
 </picture>
+<br> <br>
+
+**My Farm** <br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/leehe228"
+  width="600"
+  height="300"
+/>
+</a>
+<br> <br>
+
+**solved.ac** <br>
 
 ![leehe228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leehe228)
+<br> <br>
+
+<div align="center">
 
 <div>
 <a href="https://hits.seeyoufarm.com">
