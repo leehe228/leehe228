@@ -1,5 +1,5 @@
 ### 📄 My Portfolio (CV)
-- [https://sites.google.com/view/hoeunlee](https://sites.google.com/view/hoeunlee) <br> <br>
+∙ [https://sites.google.com/view/hoeunlee](https://sites.google.com/view/hoeunlee) <br> <br>
 
 ### 🏫 Education
 **B.S. Dept. of Computer Science and Engineering, Konkuk University, Seoul** <br>
