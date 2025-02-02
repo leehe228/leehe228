@@ -38,7 +38,7 @@ AI4System / AI4DB, ML4DB / Learned Query Optimizer / Deep Reinforcement Learning
 <br> <br>
 
 ### ✉️ Contact me  
-- hoeunlee228@gmail.com
+∙ hoeunlee228@gmail.com <br>
 <br>
 
 ### 🔖 Appendix
