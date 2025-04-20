@@ -4,9 +4,11 @@
 ### 🏫 Education
 **B.S. Dept. of Computer Science and Engineering, Konkuk University, Seoul** <br>
 (*Mar 2020 - Aug 2025*) <br>
+∙ Cumulative GPA: *4.48/4.50*, Major GPA: *4.50/4.50* <br>
 
 **Chungnam Samsung Academy High School (CNSA)** <br> 
 (*Mar 2017 - Feb 2020*) <br>
+∙ President of IT Edit (2018)<br>
 <br>
 
 ### 🔬 Experience 
