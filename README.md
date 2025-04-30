@@ -13,6 +13,7 @@
 ### 🔬 Experience 
 **Undergraduate Intern, [AIDAS LAB](https://aidas.snu.ac.kr), Seoul National University** <br>
 (*Jul 2024 - present*) <br>
+∙ Research on ML4DB, ML4System, VectorDB <br>
 
 **Sergeant, Republic of Korea Air Force (ROKAF)** <br>
 (*Jan 2022 - Oct 2023*) <br>
