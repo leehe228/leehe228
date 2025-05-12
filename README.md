@@ -2,7 +2,7 @@
 [https://sites.google.com/view/hoeunlee](https://sites.google.com/view/hoeunlee) <br> <br>
 
 ### 🏫 Education
-**B.S. Dept. of Computer Science and Engineering, Konkuk University, Seoul** <br>
+**B.S. Student, Dept. of Computer Science and Engineering, Konkuk University, Seoul** <br>
 (*Mar 2020 - Aug 2025*) <br>
 
 **Chungnam Samsung Academy High School (CNSA)** <br> 
